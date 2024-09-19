@@ -1,0 +1,19 @@
+services:
+  rag:
+    build: ./rag
+    container_name: rag-service
+    command: python main.py
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./rag/mini_corpus:/app/mini_corpus  # Maps local directory to container
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}  # Pass the API key to the container
+  chat:
+    build: ./chat
+    container_name: chat-service
+    command: streamlit run app.py
+    volumes:
+      - ./chat:/chat-app
+    ports:
+      - "8501:8501"  # Streamlit default port

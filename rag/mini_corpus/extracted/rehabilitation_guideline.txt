@@ -1,0 +1,2474 @@
+| Rehabilitation Guidelines | Cerebral Palsy | Occupational Therapy |
+Rehabilit ation Guideline for the
+Management of Children with
+Cerebral Palsy
+| Occupational Therapy Guideline |
+Humanity & Inclusion
+2018
+Page | 2
+Advancing Medical Care and Rehabilitation Education Project
+A project funded by the USAID and Implemented by Humanity & Inclusion* in collaboration with
+the Ministry of Health in Vietnam
+* Since January 2018, Humanity & Inclusion is
+Handicap International’s new operating name
+Rehabilitation Guideline for the Management of
+Children with Cerebral Palsy
+| Occupational Therapy Guideline |
+This guideline is made possible by the generous support of the American people through the
+United States Agency for International Development (USAID)
+The contents are the responsibility of Humanity & Inclusion and do not necessarily reflect the
+views of USAID or the United States Government
+Page | 3
+Foreword
+In the framework of the "Advancing Medical Care and Rehabilitation Education" project in
+Vietnam, and with the guidance and support of the Ministry of Health, Humanity & Inclusion
+(previously known as Handicap International) and its partners contribute to the strengthening of
+medical and rehabilitation care for persons with disabilities due to brain lesion (i.e. stroke,
+traumatic brain injury, cerebral palsy and spina bifida and hydrocephalus).
+In order to provide rehabilitation specialists (rehabilitation doctors, nurses, therapists…) with the
+tools they need to properly support persons with disabilities, the project, with the financial
+support of the United States Agency for International Development (USAID), has developed up-
+to-date and comprehensive "Rehabilitation Guidelines".
+With the assistance of international experts and Vietnamese specialists, these guidelines have
+been developed based on the latest available scientific evidences or, where evidences are still
+lacking, internationally-recognized best-practices. The constant involvement and support received
+from Vietnamese medical and rehabilitation professionals in the development process ensured
+contextualization and ownership of these guidelines as they brought in not only their technical
+expertise but also their knowledge and experiences on the Vietnamese context and the local
+needs and resources.
+Two types of documents have been developed. Besides the General Rehabilitation Guidelines,
+which provide wide-ranging recommendations on care provision and quality principles, more
+“Technical” Guidelines have also been produced for each of the targeted conditions. These
+technical guidelines are specific to one "type" of care (physiotherapy, occupational therapy,
+speech and language therapy; and for some conditions medical and nursing care as well). They
+provide rehabilitation professionals with more specific, detailed technical guidance, allowing
+them to better understand their specific role in the general rehabilitation approach and the
+provision of multi-disciplinary, person-centred and evidence-based care.
+The result of this process is a comprehensive set of guidelines that we hope will be widely
+spread and support all rehabilitation actors in providing better and higher quality care to the
+people in need.
+The present English version of the Rehabilitation Guidelines has been developed with valued
+support from the Vietnamese Ministry of Health. It is our hope that the Vietnamese version of
+the respective guidelines will be officially endorsed by the Ministry as national guidelines for
+rehabilitation care of persons with brain lesions.
+On Behalf of Humanity & Inclusion,
+Didier Demey
+Country Director
+Page | 4
+Acknowledgments
+Humanity & Inclusion would like to thank the Ministry of Health, and in particular the department
+of Administration of Medical Services (AMS) for their support and encouragement during the
+development of the Rehabilitation Guidelines for persons with brain lesions.
+We also would like to extend our gratitude to the United States Agency for International
+Development (USAID) for their guidance and financial support, without which the present
+document could not have been produced.
+Furthermore, Humanity & Inclusion would like to thank Dr Patricia Coker-Bolt and Prue Golland
+for their support in developing these guidelines. Their commitment towards strengthening
+medical and rehabilitation care in Vietnam is greatly appreciated.
+Finally, we would like to acknowledge and thank all the national experts and medical and
+rehabilitation professionals who, through their participation to the guidelines development and
+review workshops have greatly contributed to the development of these guidelines. In particular,
+we would like to recognize the members of the Guidelines Development Committee:
+Prof. Trần Trọng Hải, Prof. Cao Minh Châu, Associated Prof. Lương Tuấn Khanh, Dr. Nguyễn Thị
+Kim Liên, Dr. Hà Chân Nhân, Dr. Đinh Quang Thanh, Dr. Trịnh Quang Dũng, Lê Thanh Vân (MSc),
+ThS. Nguyễn Ngọc Minh (MSc), Dr. Phạm Thị Cẩm Hưng, Dr. Đinh Thị Hoa, Dr. Hoàng Khánh Chi,
+Lê Tường Giao (BSc), Đỗ Thị Bích Thuận (BSc).
+Page | 5
+FOREWORD ............................................................................................................................................................ .... 4
+ACKNOWLEDGMENTS ................................................................................................................................................. 5
+LIST OF ABBREVIATIONS ............................................................................................................................................. 7
+1. INTRODUCTION ...................................................................................................................................................... 8
+1.1. THE NEED FOR GUIDELINES ............................................................................................................................................ 8
+1.2. WHO ARE THE GUIDELINES FOR ...................................................................................................................................... 8
+1.3. AIM OF THE GUIDELINE .................................................................................................................................................. 9
+1.4. STATEMENT OF INTENT .................................................................................................................................................. 9
+1.5. WHAT IS CP ................................................................................................................................................................ 9
+1.6. DESCRIBING CP .......................................................................................................................................................... 10
+1.7. ASSOCIATED CONDITIONS............................................................................................................................................. 12
+1.8. WHAT IS OCCUPATIONAL THERAPY ................................................................................................................................ 13
+2. PRINCIPLES OF REHABILITATION ............................................................................................................................15
+2.1. INTRODUCTION .......................................................................................................................................................... 15
+2.2. REHABILITATION CYCLE ................................................................................................................................................ 16
+2.3. ICF .......................................................................................................................................................................... 16
+2.4. PERSON CENTRED AND FAMILY CENTRED CARE ................................................................................................................ 18
+2.5. MULTIDISCIPLINARY TEAMS AND INTERPROFESSIONAL TEAM APPROACH ............................................................................... 21
+3. THE REHABILITATION CYCLE ..................................................................................................................................23
+3.1. SCREENING FOR CHILDREN AT RISK OF CEREBRAL PALSY ..................................................................................................... 23
+3.2. CLASSIFICATION TOOLS ................................................................................................................................................ 27
+3.3. GOAL SETTING ........................................................................................................................................................... 30
+3.4. ASSESSMENT ............................................................................................................................................................. 32
+3.5. EVIDENCE-BASED PRACTICES IN CP - OT ......................................................................................................................... 47
+3.6. REHABILITATION NEEDS ACROSS LIFESPAN ...................................................................................................................... 63
+3.7. PARENT, FAMILY AND CAREGIVER SUPPORT ..................................................................................................................... 65
+GLOSSARY..................................................................................................................................................................67
+REFERENCES ..............................................................................................................................................................71
+Page | 6
+List of Abbreviations
+AAC Augmentative and alternative communication
+ADL Activities of daily living
+AOTA American Occupational Therapy Association
+CBR Community-based rehabilitation
+CFCS Communication Function Classification System
+COPM Canadian Occupational Performance Measure
+CVI Cortical visual impairment
+EBP Evidence-based practice
+EDACS Eating and Drinking Ability Classification System
+FEES Flexible endoscopic evaluation of swallowing
+GMFCS Gross Motor Function Classification System
+GMFM Gross Motor Function Measure
+HIE Hypoxic-ischaemic encephalopathy
+HINE Hammersmith Infant Neurological Examination
+IALD Individualized Activities of Daily Living
+ICF International Classification of Function
+MACS Manual Abilities Classification Scale
+QUEST Quality of Upper Extremity Skills Test
+WFOT World Federation of Occupational Therapy
+WHO World Health Organization
+Page | 7
+1. Introduction
+1.1. The Need for Guidelines
+Cerebral palsy (CP) is a complex disorder. It is the most common cause of childhood physical
+disability and arises from multiple and varied aetiologies, resulting in multiple and varied
+presentations. Variable characteristics of cerebral palsy include the distribution of motor
+impairments, the type of movements seen, the severity of the motor disorder (and therefore
+functional abilities) and the presence of secondary/associated conditions.
+Children with CP have impairments and support needs that are addressed through the health
+care, rehabilitation care and social care systems in Vietnam. Guidelines for the management of
+children with cerebral palsy are required to:
+• Facilitate clear expectations around roles and responsibilities of health professionals
+across all levels of health and rehabilitation care in Vietnam
+• Enable timely access to appropriate interventions to maximise functional abilities and
+quality of life for children with cerebral palsy and their families.
+These guidelines consist of several components - a general rehabilitation guideline (this
+document), a technical guideline for physiotherapy and a technical guideline for occupational
+therapy. Collectively these documents make up a set of guidelines (known as ‘the guidelines’) for
+the holistic management of children with cerebral palsy. Specific technical guidelines for medical
+practitioners, nurses and speech pathologists are still to be developed.
+The present Occupational Therapy Guideline for Cerebral Palsy provide recommendations and
+guidance on type of occupational therapy care to be provided as well as "cross-cutting"
+recommendations in regard of requirements for a system organization, multidisciplinary and
+comprehensive care, person-centred care, family support and involvement, care pathway and
+referrals, discharge and follow-up, community reintegration and social participation. The guideline
+acts as an adjunct to the General Rehabilitation Guidelines for Cerebral Palsy which have been
+developed recently.
+1.2. Who Are the Guidelines For
+The present guideline is primarily a practical resource tool for Occupational Therapist who are
+involved in rehabilitation with children with CP.
+They are also useful to any other professional with an interest in rehabilitation for children with
+CP, including doctors, neurologists, rehabilitation doctors, nurses, occupational therapists,
+Page | 8
+speech and language therapists, dieticians, orthotists, pharmacists, psychologists, specialists in
+public health, social, community workers and stroke survivors and their family and carers.
+1.3. Aim of the Guideline
+The guidelines are meant to be a resource guide for the rehabilitation management of those
+people in Vietnam who are affected by cerebral palsy. The guidelines are not prescriptive. They
+contain various ideas for management but, depending on the local situation, not all of the
+activities will have to be implemented. In some cases activities should be adjusted to local
+circumstances.
+They are also intended to not only be a practical resource but an educational tool to assist all
+health staff and the public as to what is necessary for facilitating effective outcomes of
+rehabilitation care. They may also act as an awareness tool for all staff as to roles and functions
+of those people who are concerned with rehabilitation care for children with CP. They can be
+simplified in order to adapt to a more junior level trained staff and for children with CP and family
+themselves.
+They can also highlight the gaps and needs in the workforce for specific staff (e.g. fully qualified
+occupational therapists (OT) and speech and language therapists (SALT) as well as give target
+recommendations for the coming 5-10 years in how to improve the quality of rehabilitation care
+for children with CP in Vietnam.
+1.4. Statement of Intent
+The guidelines are not intended to serve as a standard of medical care. Standards of care are
+determined on the basis of all clinical data available for an individual case and are subject to
+change as scientific knowledge and technology advance and patterns of care evolve. Adherence
+to the guidelines will not ensure a successful outcome in every case, the ultimate judgment
+regarding a particular clinical procedure or treatment plan must be made in light of the clinical
+data presented by the patient and diagnostic and treatment options available. However, it is
+advised that significant departures from these guidelines should be fully documented in the
+patient’s case notes at the time the relevant decision is taken.
+1.5. What is CP
+CP is an umbrella term that describes ‘a group of permanent disorders of the development of
+movement and posture, causing activity limitations that are attributed to non-progressive
+Page | 9
+disturbances that occurred in the developing fetal or infant brain. The motor disorders of cerebral
+palsy are often accompanied by disturbances of sensation, perception, cognition, communication
+and behaviour, by epilepsy and by secondary musculoskeletal problems.’ (Rosenbaum et al.,
+2007).
+The prevalence of CP in high-resource countries is 1.4-2.1 per 1000 live births (ACPR, 2016;
+Sellier et al, 2015). Vietnam does not yet have a national cerebral palsy register. The
+establishment of a national register would enable incidence and prevalence to be determined.
+Little is known about the epidemiology CP in Vietnam. An ongoing hospital based surveillance of
+CP at the National Children's Hospital (NCH) in Hanoi is aims to define the aetiology, motor
+function and its severity, associated impairments, and nutritional and rehabilitation status of
+children with CP (aged <18 years) in Hanoi, Vietnam (Khandaker et al. BMJ Open 2017).
+Preliminary findings (personal communication 2.2.2018, Prof Elliott, Principle Investigator) from
+this study show that among children with CP who attended the rehabilitation department at
+NCH, Hanoi:
+(cid:1) Mean age of diagnosis of CP was 20.7 months (range 1 month -13 years)
+(cid:1) CP type at diagnosis:
+o 66% spastic quadriplegia
+o 21% hemiplegia/monoplegia
+o 6.4% diplegia
+(cid:1) 1.5% had predominantly athetosis
+(cid:1) 54% the children had intellectual impairment and 12.7% had probable intellectual
+impairment
+(cid:1) Using the Gross Motor Function Classification System (GMFCS):
+o 16% had level V function
+o 27% Level IV (indicating requirement for a manual or powered wheelchair) yet
+none had access to a wheelchair
+o 13% had Level III function
+o 16% Level II function
+o 23% Level I function
+1.6. Describing CP
+This section provides definitions of the motor types of CP. Assessments of spasticity,
+hypertonicity, dystonia, athetosis/choreoathetosis are provided in the Guidelines for
+Physiotherapy and Occupational Therapy.
+1.6.1. Motor Type
+Motor type refers to the motor disorder seen. This is closely related to the area of the brain that
+is damaged.
+Page | 10
+(I) Spasticity
+Spasticity is a velocity-dependent resistance to stretch by the muscles. It is characterised by an
+excessive stiffness in the muscles when the child attempts to move or maintain a posture
+against gravity. Spasticity can vary according to the child’s state of alertness, emotions, activity,
+posture or presence of pain (Sanger, Delgado et al. 2003).
+(II) Dyskinesia/Hyperkinesia
+Dyskinesia/hyperkinesia refers to an increase in muscular activity that can result in excessive
+abnormal movements, excessive normal movements, or a combination of both.
+Dyskinetic/hyperkinetic CP is characterised by abnormalities of tone and various movement
+disorders including dystonia, athetosis and chorea (Sanger, Chen et al. 2010).
+(cid:1) Dystonia is characterised by sustained or intermittent muscle contractions causing
+repetitive or twisting movements.
+(cid:1) Athetosis is characterised by uncontrolled, slow and writhing movements that prevent
+maintenance of a stable posture. It involves continuous smooth movements that appear
+random and are not composed of recognisable sub-movements or movement fragments.
+Athetosis is made worse by attempts to move however it may also be present at rest.
+Athetosis is distinguished from dystonia by the lack of sustained postures, and from
+chorea by the lack of identifiable movement fragments (Sanger et al, 2010, page 1543).
+(cid:1) Chorea is an ongoing random-appearing sequence of one or more discrete involuntary
+movements or movement fragments. Chorea is distinguished from dystonia due to the
+apparently random, unpredictable, and continuously ongoing nature of the movements,
+compared with the more predictable and stereotyped movements or postures of
+dystonia. The movements of chorea often appear more rapid than those associated with
+dystonia. Although chorea may be worsened by movement, attempts at movement, or
+stress, particular movements are not triggered by voluntary attempts with the same
+degree of temporal specificity as in dystonia (Sanger et al, 2010, page 1542). Children
+with chorea present as fidgety or in constant motion.
+Athetosis and chorea usually co-present in CP and together are known as choreoathetosis.
+(III) Ataxia
+Ataxia is characterised by shaky movements and affects a person’s coordination and balance. It
+is the least common form of CP.
+(IV) Mixed motor types
+CP where more than one motor type is present, for example spasticity and dystonia. Usually one
+motor type will be dominant.
+See section 5.2 Managing the Motor Disorder for information on assessing the motor disorder.
+Page | 11
+1.6.2. Topography
+Topography refers to the distribution of the motor impairments or the body parts affected. Motor
+impairments can be unilateral (affecting one side of the
+body only) or bilateral (affecting both sides of the
+body).
+(I) Unilateral CP
+(cid:1) Monoplegia - one limb is affected. This can be
+the arm or leg on the left or right side of the
+body.
+(cid:1) Hemiplegia - one half of the body is affected.
+This can be the left side or the right side. The
+arm and leg do not need to be equally affected.
+In fig. 1: Hemiplegia includes children with monoplegia;
+quadriplegia includes children with triplegia)
+Figure 1: Image from Cerebral Palsy
+Diagnosis and Treatment infographic
+poster (www.worldcpday.org)
+(II) Bilateral CP
+(cid:1) Diplegia - both legs are primarily affected. Children with diplegia frequently have some
+impairment in upper limb function.
+(cid:1) Triplegia - three limbs are affected with sparing of the fourth limb. Quadriplegia - all four
+limbs are affected with the head, neck and trunk also affected.
+1.6.3. Severity
+CP can be described or classified according to the severity of the motor impairments. Four
+classification systems of motor function, communication and eating and drinking ability are
+internationally recognised. They relate to how an individual with CP mobilises (GMFCS), how
+they use their hands in everyday activities (MACS), how they communicate with familiar and
+unfamiliar people (CFCS) and their ability to eat and drink safely (EDACS). These severity
+classification tools are detailed below.
+1.7. Associated Conditions
+The motor impairments of CP are almost always accompanied by one or more secondary
+impairments (Rosenbaum, et al., 2007). For many children, these secondary conditions are more
+disabling than their physical impairment:
+(cid:1) 3 in 4 will experience chronic pain
+(cid:1) 1 in 2 will have an intellectual impairment
+(cid:1) 1 in 3 will be unable to walk
+Page | 12
+(cid:1) 1 in 3 will experience hip displacement
+(cid:1) 1 in 4 will be unable to talk
+(cid:1) 1 in 4 will have epilepsy
+(cid:1) 1 in 4 will have a behaviour disorder
+(cid:1) 1 in 4 will have bladder incontinence
+(cid:1) 1 in 5 will have a sleep disorder
+(cid:1) 1 in 10 will have a vision impairment
+(cid:1) 1 in 15 will be unable to eat orally
+(cid:1) 1 in 25 will have a hearing impairment.
+(Novak et al., 2012)
+1.8. What is Occupational Therapy
+1.8.1. Definition
+Occupational therapy is a client-centred health profession concerned with promoting health and
+well-being through occupation. The primary goal of occupational therapy is to enable people to
+participate in the activities of everyday life. Occupational therapists achieve this outcome by
+working with people and communities to enhance their ability to engage in the occupations they
+want to, need to, or are expected to do, or by modifying the occupation or the environment to
+better support their occupational engagement (World Federation of Occupational Therapy
+(WFOT), 2012).
+1.8.2. Domain and Scope of Practice of Occupational Therapy
+Occupations refer to the everyday activities that people do as individuals, in families and with
+communities to occupy time and bring meaning and purpose to life. Occupations are central to a
+person’s identity and sense of competence and have meaning and value to patients (AOTA
+2014).
+Achieving health, well-being, and participation in life through engagement in occupation is the
+overarching statement that describes purpose occupational therapy in its fullest sense. This
+statement acknowledges the profession’s belief that active engagement in occupation promotes,
+facilitates, supports, and maintains health and participation.
+These interrelated concepts include:
+• Health—“a state of complete physical, mental, and social well-being, and not merely the
+absence of disease or infirmity” (World Health Organization [WHO], 2006, p. 1).
+• Well-being—“a general term encompassing the total universe of human life domains,
+including physical, mental, and social aspects” (WHO, 2006, p. 211).
+• Participation—“involvement in a life situation” (WHO, 2001, p. 10). Participation naturally
+occurs when clients are actively involved in carrying out occupations or daily life activities
+Page | 13
+they find purposeful and meaningful. More specific outcomes of occupational therapy
+intervention are multidimensional and support the end result of participation.
+• Engagement in occupation—performance of occupations as the result of choice,
+motivation, and meaning within a supportive context and environment. Engagement
+includes objective and subjective aspects of clients’ experiences and involves the
+transactional interaction of the mind, body, and spirit. Occupational therapy intervention
+focuses on creating or facilitating opportunities to engage in occupations that lead to
+participation in desired life situations (AOTA, 2014).
+Occupational therapists are skilled in evaluating all aspects of the domain of occupation,
+their interrelationships, and the client within his or her contexts and environments.
+Occupations are categorized as activities of daily living (ADLs), instrumental activities of
+daily living (IADLs), rest and sleep, education, work, play, leisure, and social participation.
+Other healthcare professions use a similar process of evaluating, intervening, and
+targeting intervention outcomes, but only occupational therapists focus on the use of
+occupations to promote health, well-being, and participation in life.
+Page | 14
+2. Principles of Rehabilitation
+2.1. Introduction
+2.1.1. Rehabilitation
+WHO describes rehabilitation as “a set of measures that assist individuals who experience, or
+are likely to experience, disability [resulting from impairment, regardless of when it occurred
+(congenital, early or late)] to achieve and maintain optimal functioning in interaction with their
+environments” “Rehabilitation measures target body functions and structures, activities and
+participation, environmental factors, and personal factors.” (WHO, 2011)
+Rehabilitation can include a variety of activities in various sectors. In the health sector,
+rehabilitation addresses chronic, or long‐term, conditions and impairments with the goal of
+reversing or limiting their impact. Services may include speech therapy, physiotherapy,
+occupational therapy, the provision of assistive devices, and special surgeries to correct
+deformities and other types of impairment.
+Key aspects of rehabilitation care include:
+(cid:1) Multidisciplinary screening and assessment
+(cid:1) Identification of functional difficulties and their measurement
+(cid:1) Treatment planning through goal setting
+(cid:1) Delivery of interventions which may either effect change or support the person in
+managing persisting change
+(cid:1) Evaluation of effectiveness of the intervention
+(cid:1) Reporting
+2.1.2. Habilitation
+Habilitation involves interventions that help individuals keep, learn, or improve skills and
+functioning for daily living. The focus is on learning of new skills when an individual is born with a
+disability that impacts typical development (and therefore typical skill attainment). These are skills
+that may only be mastered through skilled and targeted therapy services.
+Examples include teaching an infant with CP how to roll, sit unsupported, stand, and walk for the
+first time. It can also include teaching an older child with CP to ride a bicycle, hold a pencil and
+write, and catch/throw a ball for the first time.
+Page | 15
+2.2. Rehabilitation Cycle
+The conventional approach to rehabilitation is a cyclical process:
+2.2.1. Assessment
+(cid:1) The patient is assessed and needs are identified
+and quantified; (Re-)
+Intervention
+Assessment
+2.2.2. Goal setting
+(cid:1) On the basis of the assessment the goals for
+rehabilitation of the patient are defined. These
+can be short term, medium term and long term
+goals;
+Goal Setting
+(cid:1) A plan to reach these goals is formulated
+2.2.3. Intervention
+(cid:1) Giving relevant treatment in order to achieve the goals;
+2.2.4. Re-Assessment
+(cid:1) Progress is assessed as to whether the intervention has been effective in order to
+achieve the agreed goals. If not then goals and consequent intervention can be revisited.
+2.3. ICF
+2.3.1. What is the ICF
+Rehabilitation can be summarised
+in the ICF (International
+Classification of Functioning,
+Disability and Health) model
+developed by WHO (2001). The
+ICF conceptualises a person's
+level of functioning as a dynamic
+interaction between her or his
+health condition, environmental WHO (2001). ICF Model
+factors, and personal factors. It is
+a biopsychosocial model, based on an integration of the
+Page | 16
+social and medical models of disability. All components of disability are important and any one
+may interact with another. Environmental factors must be taken into consideration as they affect
+everything and may need to be changed.
+(cid:1) Body Functions are the physiological or psychological functions of body systems.
+(cid:1) Body Structures are anatomic parts of the body such as organs, limbs and their
+components.
+(cid:1) Impairments are problems in body function or structure such as a significant deviation or
+loss.
+(cid:1) Activity is the performance of a task or action by an individual.
+(cid:1) Activity Limitations are difficulties an individual may have in the performance of activities.
+(cid:1) Participation is an individual’s involvement in life situations in relation to Health
+Conditions, Body Functions and Structure, Activities, and Contextual factors.
+(cid:1) Participation Restrictions are problems an individual may have in the manner or extent of
+involvement in life situations.
+(cid:1) Environmental factors. These factors range from physical factors (such as climate, terrain
+or building design) to social factors (such as attitudes, institutions, and laws).
+(cid:1) Personal factors include race, gender, age, educational level, coping styles, etc.
+For example:
+(cid:1) Health Disorder: Cerebral Palsy
+(cid:1) Body Function/Structure Impairment: Hypertonicity in upper extremity and lower
+extremity; spasticity
+(cid:1) Activity Limitation: Unable to put on a shirt or pants; unable to use a utensils
+(spoon/chopsticks) to feed self; unable walk
+(cid:1) Participation Limitation: Difficulty eating meals with family and out in the community;
+difficulty going to school; unable to play/socialize with same-aged children
+(cid:1) Environment considerations: physical access to community buildings, school
+(cid:1) Personal factors: age and gender of child; motivation of child
+2.3.2. The ICF, Rehabilitation and CP
+These guidelines have been developed using the International Classification of Functioning,
+Disability and Health (ICF) to guide clinical thinking and the delivery of services to children with
+CP and their families.
+The use of the ICF as a framework for clinical practice provides health care workers with a guide
+to the selection of measurement tools, to inform goal setting and decision making processes and
+determine outcomes meaningful to children with CP and their families (Rosenbaum and Stewart
+2004). Use of the ICF in the management of CP enables us to expand our thinking beyond
+“fixing” primary impairments to a view that places equal value on promoting functional activity
+and facilitating the child’s full participation in all aspects of life (Rosenbaum & Stewart 2004).
+Page | 17
+In other words, children with CP should be assessed and have interventions provided, wherever
+possible, within their different life domains including (but not limited to) home, schools,
+recreational or other settings, to have a full understanding of the child’s functional abilities in
+different environments and facilitate full integration to their community living. This may require
+developing/strengthening relationships with or partnering with local charitable organisations,
+non-government organisations and CBR projects to facilitate continuity of care once a child with
+CP is discharged from hospital.
+2.4. Person Centred and Family Centred Care
+2.4.1. Person-Centred Approach
+Best practice service delivery when working with children with CP and their families is to adopt
+person-centred and family-centred approaches.
+Treatment and care should take into account individual needs and preferences. Patients should
+have the opportunity to make informed decisions about their care and treatment, in partnership
+with their healthcare professionals. If the patient agrees, families and carers should have the
+opportunity to be involved in decisions about treatment and care. Families and carers should also
+be given the information and support they need (NICE, 2014)
+A person-centred approach should underpin the goalsetting process. Treatment goals are more
+likely to be achieved if patients are involved in setting them. Moreover, there is also evidence
+that this goal setting process has positive therapeutic value in encouraging the patients to reach
+their goals. (Hurn et al, 2006)
+Person-centred practice places the individual in the centre and emphasises building partnerships
+with persons with CP and their families in which they are valued members of the rehabilitation
+team. It emphasises four aspects:
+(cid:1) Each individual is unique
+(cid:1) Each individual is an expert in their own lives
+(cid:1) Partnerships are key
+(cid:1) There is a focus on an individual’s strengths
+Person centred practice situates power and control with the person and their family. It tailors
+supports to achieve the person’s goals and future and aims for social inclusion, valued roles, and
+community participation.
+2.4.2. Family-Centred Approach
+Family-centred practice adopts a similar philosophy to person-centred practice and goes further
+to recognise that families and carers are pivotal decision makers when working with children
+with CP. Family-centred practice is made up of a set of values, attitudes, and approaches to
+Page | 18
+services for children with CP and their families. The family works with service providers to make
+informed decisions about the services and supports the child and family receive. In a family-
+centred approach, the strengths and needs of all family members and carers are considered. The
+family defines the priorities of the intervention and services. It is based on the premises that
+families know the child best, that optimal recovery outcomes occur within a supportive family
+and community environment and that each family is unique. Service provides support and
+respect each family’s capacity and resources. Family capacity includes the knowledge and skills
+the family requires to support the child’s needs and well-being. Capacity is the amount of
+physical, intellectual, emotional and spiritual energy necessary to support the child with CP, and
+it directly influences the sense of competency a family member experiences when caring for a
+child with CP.
+2.4.3. Parent Empowerment
+The WHO defines empowerment as a process through which people gain greater control over
+decisions and actions affecting their health.
+Family-centred practice supports parent empowerment. Example behaviours that service
+providers should adopt to promote family-centred practice and parent empowerment include:
+(cid:1) Encourage parent decision-making in partnership with other team members (to utilise
+family empowerment strategies.)
+(cid:1) Assist families to identify their strengths and build their own resources.
+(cid:1) Inform, answer, and advise parents (to encourage informed choices).
+(cid:1) Work in partnership with parents and children and help them identify and prioritise their
+needs from their own perspective.
+(cid:1) Collaborate with parents at all levels (care of the individual child; program development,
+implementation and evaluation; policy formation).
+(cid:1) Provide accessible services that will not overwhelm families with paperwork and
+bureaucratic red tape.
+(cid:1) Share complete information about the child’s care on an ongoing basis.
+(cid:1) Respect the values, wishes and priorities of families.
+(cid:1) Accept and support decisions made by families.
+(cid:1) Listen.
+(cid:1) Provide flexible and individualised services (and to respond to the changing needs of the
+family).
+(cid:1) Be knowledgeable about and accept diversity among families (racial, ethnic, cultural and
+socio-economic).
+(cid:1) Believe and trust parents.
+(cid:1) Communicate in a language understandable by parents.
+(cid:1) Consider and be sensitive to the psychosocial needs of all family members.
+(cid:1) Provide an environment that encourages the participation of all family members.
+(cid:1) Respect the family’s own style of coping without judging what is right and what is wrong.
+Page | 19
+(cid:1) Encourage family-to-family support and the use of natural community supports and
+resources.
+(cid:1) Recognise and build on family and child strengths.
+(Premises, Principles, and Elements of Family-Centred Service. Mary Law, Peter Rosenbaum,
+Gillian King, Susanne King, Jan Evans, 2003)
+2.4.4. Patient Centred Models of Occupational Therapy
+Occupational therapists use several models to provide a framework for the assessment and
+treatment of patients. Models are client-centred and collaborative in nature engaging the patient
+in the occupational therapy process. Some models which can be used to guide occupational
+therapy services for children with CP and their families include:
+1) The Person-Environment-Occupation-Performance Model – The model focuses on health,
+participation, and well-being of individuals, groups, and populations. Occupational
+performance is the doing of meaningful activities, tasks, and roles through complex
+interactions between the person and the environment.
+2) The Person-Environment-Occupation Model – This model focuses on occupational
+performance and its link to people, occupation, roles, the environment, work, and play as
+a dynamic, interwoven process.
+3) Occupational Adaptation Model – This model encourages the occupational therapist to
+assist the client to identify occupation to which he or she is interested in returning. The
+emphasis is on the use of meaningful occupations to allow the client to experience
+adaptation.
+4) The Model of Human Occupation – Occupation is the action of doing in which people
+occupy their world. Occupational behaviors occur when a person makes a choice and acts.
+People are occupational by nature and need to act in accordance to valued goals and
+interests (volition). Habits and roles guide a person’s occupational choices.
+5) The Kawa Model – This model uses the natural metaphor of a river to depict one’s life
+journey. The varying and chronological experience of life is like a river, flowing from the
+high lands down to the ocean. Along its meandering path, the quality and character of its
+flow will vary from place to place, from instance to instance. Occupational therapists try
+to enable, assist, restore and maximize their clients’ life flows.
+Recommendation -
+> Occupational therapists should use common models and frameworks as tools to guide clinical
+reasoning skills needed to deliver evidence-based and client-centred occupational therapy
+services
+Page | 20
+2.5. Multidisciplinary Teams and Interprofessional Team
+Approach
+The gold standard approach for the management and treatment of children with CP requires a
+multidisciplinary team which utilises an interprofessional team approach.
+Rehabilitation team members may include:
+(cid:1) Physician/Rehabilitation Specialist
+(cid:1) Nurse
+(cid:1) Physiotherapist
+(cid:1) Occupational Therapist
+(cid:1) Speech-Language Therapist
+(cid:1) Orthotist/P&O technician
+(cid:1) Nutritionist/Dietician
+(cid:1) Social Worker/Case Manager
+(cid:1) Psychologist
+This approach focuses on all developmental aspects of the child (including conditions associated
+with CP) and on planning interventions in relation to the most important needs of the child and
+the family through team collaboration. Team collaboration is the process of forming partnerships
+among service providers, the family and child, and the community with the common goal of
+enhancing the child’s development and supporting the family.
+In the interprofessional team approach, providers work independently, but recognise and value
+contributions of other team members. This approach requires interaction among the team
+members for the evaluation, assessment, and development of the intervention plan. The role of
+each team member is defined and there is an emphasis on regular and on-going communication
+among team members. Common goals are developed in collaboration with the child and family.
+In a multidisciplinary team approach, professionals still work independently and recognise and
+value contributions of other team members, however goals are developed in collaboration with
+the child and family by each individual team member (Effgen, 2006; Utley & Rapport, 2000).
+Page | 21
+Speech and
+Nurse Language
+therapis
+Rehab Occupational
+doctor therapist
+Consultant
+Psychologist
+physicians
+Physio
+Orthotist
+therapist
+Child with
+Social
+CP+ Dietetician
+worker
+family/carer
+Page | 22
+3. The Rehabilitation Cycle
+3.1. Screening for Children at Risk of Cerebral Palsy
+Cerebral palsy is diagnosed by clinical presentation based upon the presence of a motor disorder
+caused by damage to, or maldevelopment of the infant brain. A diagnosis of CP is made by a
+medical professional (e.g. general practitioner, paediatrician, paediatric neurologist). Refer to the
+general rehabilitation guideline for more detailed information regarding diagnosing cerebral palsy.
+Physiotherapists may however be the first health professional to see a child because of concerns
+that the child is not developing typically. Therefore it is important for physiotherapists to be able
+to identify signs of cerebral palsy and know when to refer children to a medical professional for
+further assessment and diagnosis.
+For the majority of children, the cause of their brain injury or maldevelopment is unknown. It is
+widely accepted that cerebral palsy does not result from a single cause but rather from a series
+of ‘causal pathways’ that can result in or accelerate injury to the developing brain.
+3.1.1. Risk Factors for Cerebral Palsy
+History taking should include screening questions related to the mother’s health, pregnancy,
+birth and post-birth period. Risk factors for cerebral palsy may be at the maternal or infant level.
+Maternal risk factors include
+(cid:1) Thyroid condition
+(cid:1) Infection during pregnancy
+(cid:1) Pre-eclampsia
+(cid:1) Bleeds during the second or third trimester
+(cid:1) Multiple pregnancy (i.e. twins or greater)
+Infant risk factors include:
+(cid:1) Prematurity
+(cid:1) Intrauterine growth restriction
+(cid:1) Low birth weight
+(cid:1) Acute intrapartum hypoxic event
+(cid:1) Moderate to severe encephalopathy
+(cid:1) Neonatal seizures
+(cid:1) Neonatal infection
+(cid:1) Hypoglycaemia
+(cid:1) Jaundice
+Page | 23
+Additional risk factors have been identified in children born at term (in high resource countries).
+These include (McIntyre et al, 2012)
+(cid:1) Placental abnormalities
+(cid:1) Birth defects
+(cid:1) Meconium aspiration
+(cid:1) Instrumental/emergency caesarean delivery
+(cid:1) Birth asphyxia
+(cid:1) Respiratory distress syndrome
+A small percentage of children acquire cerebral palsy after one month of age. This is generally a
+result of stroke, which may occur spontaneously or from complications associated with another
+condition or medical intervention (ACPR Group 2009).
+3.1.2. Abnormal Reflexes
+Occupational and physiotherapists should evaluate the presence of abnormal reflexes in infants
+at risk for CP (Hamer & Hadders-Algra, 2016):
+(cid:1) In early infancy, an absent Moro or plantar grasp response may be predictive for adverse
+developmental outcome including CP
+(cid:1) Persistence of the Moro response and asymmetric tonic neck reflex (ATNR) indicates a
+higher risk for poor developmental outcome
+(cid:1) Abnormal performances on the pull-to-sit manoeuvre and vertical suspension test have
+predictive significance throughout infancy
+Timeline when reflex is
+Reflex Testing procedure
+normally present
+1) Moro > Birth to 4-5 months > Position: Placed child supine with head in the
+of age; midline, arms on chest.
+> Strong persistence > Procedure: Support infant’s head and shoulders
+beyond 6 months of with hand, allow to drop back 20-30 degrees with
+age may be a sign of respect to trunk, stretching neck muscles.
+neurologic dysfunction. > Response: Abduction of the upper extremities
+> Integration of this with extension of the elbows, wrists and fingers,
+reflex coincides with followed by subsequent adduction of the arms at
+development of head the shoulders and flexion at the elbows and cry.
+control and protective
+extension response.
+Page | 24
+2) Plantar Grasp > Present at birth to 7 > Position: Place child supine with head in
+to 8 months of age. midline and legs relaxed.
+> Persistence beyond 1 > Procedure: Firm pressure against volar surface
+year should be of infant’s foot, directly below toes.
+regarded with the > Response: Plantar flexion of all toes
+child’s total
+developmental picture.
+Can assist the child
+with early standing
+with support and often
+seen until child walks
+well.
+3) Asymetrical > Present at 1-2 > Position: Place child supine with head in
+Tonic Neck Reflex months of age; midline.
+(ATNR) strongest at 2 months. > Procedure: Turn the head slowly to one side,
+Should be integrated by and hold in this extreme position with jaw over
+4 months of age. the shoulder.
+> Persistence beyond 6 > Response: Arm and leg on jaw side extend.
+months may be a sign Arm and leg on skull side flex.
+of neurologic
+dysfunction.
+> Integration coincides
+with the development
+of voluntary and
+controlled rolling
+abilities.
+4) Symmetrical > Present at 5 to 6 > Position: Place child in prone position
+Tonic Neck Reflex months of age. supported by the trunk, over the examiner’s
+(STNR) > Persistence beyond 7 knee.
+months of age may be > Procedure: Examiner passively first flexes then
+a sign of neurologic extends the child’s head, or facilitates movement
+dysfunction. with toy.
+> Integration coincides > Response: Flexion of the head (chin tuck)
+with the development produces flexion of the upper extremities,
+of reciprocal crawling. extension of the lower extremities. Extension of
+the head produces extension of the upper
+extremities and flexion of the lower extremities.
+Page | 25
+5) Righting > The infant should > Position: This reflex can also be assessed
+reactions demonstrate righting during pull-to-sit manoeuvre and during vertical
+responses in the head suspension test.
+and neck starting at 4 > Procedure:
+months. * Pull to sit: Place infant in supine. Grasp the
+> Abnormal or absent infant’s wrists and slowly pull the infant up from
+head righting supine into sitting position.
+responses by 7 months * Vertical suspension test: Examiner holds child
+may be a sign of vertically in space under the arms and around
+neurologic dysfunction. chest.
+> Response: Head orients immediately to vertical
+position to align head with trunk.
+6) Babinski sign > Present at birth to > Position: Place child supine.
+approximately 2 years > Procedure: Examiner firmly strokes the sole of
+of age. the foot.
+> Response: For children under 2 years of age,
+the big toe extends back toward the top of the
+foot and the other toes fan out. A normal
+response in individuals older than 2 years of age
+would be the big toe flexing downward (toward
+the sole of the foot) or no response.
+3.1.3. Motor Assessment
+(I) Ages and Stages Questionnaire (ASQ)
+The Ages and Stages Questionnaire (ASQ) is a parent-completed questionnaire that may be used
+as a general developmental screening tool.
+Developmental domains addressed in the developmental screener are gross motor, fine motor,
+problem solving, personal-social and an overall section that addresses general parental concerns.
+The ASQ can identify children who require further assessment however it is not known to be
+predictive of cerebral palsy. It is available in Vietnamese (Singh et al, 2017).
+Use of developmental milestones as a marker for cerebral palsy alone, is insufficient information
+as there may be many causes for delayed development that are not related to cerebral palsy.
+Motor delay should always be supplemented with information related to neurological functioning
+(muscle tone and/or abnormal reflexes).
+If there are concerns regarding the above signs and symptoms, physiotherapists should consider
+a possible diagnosis of cerebral palsy and refer to a medical practitioner.
+Page | 26
+3.2. Classification Tools
+3.2.1. Functional Mobility Ability
+(I) Gross Motor Function Classification System (GMFCS)
+(Palisano, Rosenbaum, Walters, Russell, Wood & Galuppi, 1997; Palisano, Rosenbaum, Bartlett
+& Livingston, 2008).
+The Gross Motor Function Classification System (GMFCS) is a 5 level classification that describes
+the gross motor function of children with CP on the basis of their self-initiated movement with
+particular emphasis on sitting, walking, and wheeled mobility. Distinctions between levels are
+based on functional abilities, the need for assistive technology, including hand-held mobility
+devices (walkers, crutches, or canes) or wheeled mobility, and to a much lesser extent, their
+quality of movement.
+The focus is on determining which level best represents the child's present abilities and
+limitations in gross motor function. Emphasis is on usual performance in home, school, and
+community settings (i.e., what they do), rather than what they are known to be able to do at their
+best (capability). It is therefore important to classify current performance in gross motor function
+and not to include judgments about the quality of movement or prognosis for improvement.
+GMFCS level should be determined in conjunction with the child and family, not solely by a
+professional.
+The CanChild website provides definitions/descriptors of the 5 GMFCS levels for different age
+groupings: Before 2nd birthday; Between 2nd and 4th birthday; Between 4th and 6th birthday; and
+Between 6th and 12th birthday. The GMFCS – E&R describes gross motor classification across
+the following age bands: 0-2 years; 2-4 years; 4-6 years; 6-12 years; and 12-18 years. The
+GMFCS emphasises the concepts inherent in the World Health Organization's International
+Classification of Functioning, Disability and Health (ICF). The descriptions for the 6 to 12 year
+and 12 to 18 year age bands reflect the potential impact of environment factors (e.g., distances
+in school and community) and personal factors (e.g., energy demands and social preferences) on
+methods of mobility.
+Administration
+Assessor: Medical practitioners, physiotherapists, occupational therapists, nurses who are
+familiar with the child’s gross motor function in conjunction with a parent or caregiver.
+How: Clinician asks questions of the child, parent or caregiver to determine functional mobility.
+Done either via parent/caregiver report and/or observation during regular appointment.
+Time: N/A
+Availability: The GMFCS – ER (2007) can be sourced freely online by visiting the CanChild
+website at https://www.canchild.ca/en/resources/42-gross-motor-function-classification-system-
+expanded-revised-gmfcs-e-r
+Page | 27
+(II) Functional Mobility Scale (FMS)
+(Graham, Harvey, Rodda, Nattras & Piripis, 2004)
+The Functional Mobility Scale (FMS) (version 2) has been constructed to classify functional
+mobility in children 4 to 18 years, taking into account a range of assistive devices a child might
+use over three distances: 5 metres (in and around the home), 50 metres (in and around
+school/preschool) and 500 metres (in the community). The FMS is sensitive to detect change
+after operative intervention.
+Administration
+Assessor: Medical practitioners, physiotherapists, occupational therapists, nurses. Clinician asks
+questions of the child, parent or caregiver who is familiar with the child’s mobility (not direct
+observation).
+How: questions asked during regular appointment.
+Time: N/A
+Availability: forms available from: http://ww2.rch.org.au/emplibrary/ortho/MOBILITYSCALE.pdf
+3.2.2. Manual Ability
+(I) Manual Ability Classification System (MACS) & Mini-MACS
+(Eliasson, Krumlinde Sundholm, Rösblad, Beckung, Arner, Öhrvall & Rosenbaum, 2005)
+The Manual Ability Classification System (MACS) provides a systematic method of classifying
+how children with CP, aged 4 to 18 years use their hands when handling objects during daily
+activities. MACS is based upon self-initiated manual ability, with particular emphasis on handling
+objects in an individual’s personal space (the space immediately close to one’s body, as distinct
+from objects that are not within reach). The focus of MACS is on determining which level best
+represents the child’s usual performance at home, school and in community settings.
+Distinctions between the levels are based on the child’s ability to handle objects and their need
+for assistance or adaptations to perform manual tasks in everyday life. MACS is not designed to
+classify best capacity and does not mean to distinguish different capacities between the two
+hands. MACS does not intend to explain the underlying reasons for limitations of performance
+or to classify types of CP.
+Mini-MACS is an adaptation of MACS for children aged one to four years. Mini-MACS classifies
+children’s ability to handle objects that are relevant for their age and development as well as their
+need for support and assistance in such situations.
+Administration
+Assessor: Parent, caregiver or health professional who is familiar with the child’s hand function.
+How: MACS level must be determined by asking someone who knows the child well and not by
+conducting a specific assessment (Eliasson, et.al.2005). Done either via parent/caregiver report
+and/or observation during regular appointment.
+Page | 28
+Time: N/A
+Availability: A MACS training video is available as well as ‘The Supplementary MACS level
+identification chart’ to be used in conjunction with the MACS leaflet. Forms available for
+download from: www.macs.nu
+3.2.3. Communication Ability
+(I) Communication Function Classification System (CFCS)
+(Hidecker, Paneth, Rosenbaum, Kent, Lillie, Eulenberg, Chester, Johnson, Michalsen, Evatt &
+Taylor, 2011)
+The Communication Function Classification System (CFCS) classifies everyday communication
+performance into one of 5 descriptive levels. Communication classification is based on the
+individual’s performance as a sender and receiver of a message, the pace of the communication
+and the familiarity of communication partner to the individual. All methods of communication are
+considered including speech, gestures, behaviours, eye gaze, facial expression and augmentative
+and alternative communication systems (AAC). Communication effectiveness is based on the
+individual’s current skill in everyday communication situations, rather than capacity for learning
+new skill.
+Level 1 Effective sender and receiver with familiar and unfamiliar partners
+Level 2 Effective but slow sender with familiar and unfamiliar partners
+Level 3 Effective sender and receiver with familiar partners
+Level 4 Inconsistent sender and/or receiver with familiar partners
+Level 5 Seldom effective sender and receiver even with familiar partners
+Administration
+Assessor: Parent, caregiver or professional who is familiar with the child’s communication.
+How: Completed either via parent/caregiver report and/or observation during regular
+appointment
+Time: N/A
+Availability: Can be accessed via:
+http://www.therapybc.ca/eLibrary/docs/Resources/CFCS_2008_11_03.pdf
+3.2.5. Eating and Drinking Ability
+(I) Eating and Drinking Ability Classification System (EDACS)
+(Sellers, Mandy, Pennington, Hankins & Morris, 2014)
+The Eating and Drinking Ability Classification System (EDACS) is a system for classifying eating
+and drinking ability in children with CP from age 3 years. It is complementary to the GMFCS,
+MACS and CFCS and its purpose is to be utilised both clinically and in research. The EDACS
+focuses on the aspects of eating and drinking such as chewing, swallowing, sucking, biting and
+Page | 29
+keeping food and liquid in the mouth. The distinctions between the five levels consider
+functional ability, requirement for adaptation to texture, techniques used and assistance required.
+Level I Eats and drinks safely and efficiently
+Level II Eats and drinks safely but with some limitations to efficiency
+Eats and drinks with some limitations to safety; there may be limitations to
+Level III
+efficiency
+Level IV Eats and drinks with significant limitations to safety
+Level V Unable to eat or drink safely, tube feeding may be considered to provide nutrition
+An additional classification of degree of help required during mealtimes can be used to further
+supplement EDACS. This includes: Independent (Ind), requires assistance (RA) or totally
+dependent (TD). It classifies usual rather than best performance.
+Administration
+Assessor: Parent, caregiver or health professional who is familiar with the child’s eating and
+drinking ability.
+How: Completed either via parent/caregiver report and/or observation.
+Time: N/A
+Availability: Can be accessed via: www.EDACS.org
+3.3. Goal Setting
+Building authentic partnerships with families has positive implications for the rehabilitation
+process in general, and in particular, on determining which goals will be addressed during the
+rehabilitation process. All team members actively participate to reach consensus on the overall
+rehabilitation goals. This increases the likelihood of positive and sustainable outcomes, as
+everyone agrees as to which goals are particularly important for the family and child (Harty,
+Griesel, & van der Merwe, 2011).
+Rehabilitation teams should use the ICF’s activities and participation domains as a common
+language to help identify important goals for the family and child. The ICF allows both individual,
+as well as contextual factors to be taken into consideration, which is essential in successful
+rehabilitation approaches.
+The two most commonly used goal setting measures are the Canadian Occupational
+Performance Measure (COPM) and Goal Attainment Scaling (GAS). In many cases they can be
+used together.
+3.3.1. Occupational Profile
+The occupational profile is a summary of a client’s occupational history and experiences, patterns
+of daily living, interests, values, and needs” (AOTA, 2014, p. S13). The information is obtained
+Page | 30
+from the client’s perspective through both formal interview techniques and casual conversation
+and leads to an individualized, client-centered approach to intervention.
+Administration
+Assessor: This tool can be conducted by any rehabilitation team member.
+How: Completed through a semi-structured interview with the parent and/or child. The interview
+questions focus on determining the client’s interests and goals for therapy.
+Time: 30 minutes
+Note: An Occupational Profile template (English) can be freely downloaded, but will require
+translation into Vietnamese:
+https://www.aota.org/~/media/Corporate/Files/Practice/Manage/Documentation/AOTA-
+Occupational-Profile-Template.pdf
+3.3.2. Canadian Occupational Performance Measure (COPM)
+(Law, Baptiste, Carswell, McColl, Polatajko & Pollock, 1990)
+The Canadian Occupational Performance Measure (COPM) is an individualised measure that
+assesses an individual’s perceived occupational performance in the areas of self-care,
+productivity, and leisure. It is designed to detect change in a client’s self-perception of
+occupational performance over time. The COPM is used to identify problem areas and provide a
+rating of the client’s priorities in occupational performance, evaluate performance and
+satisfaction relative to those problem areas and measure changes in a client’s perception of
+his/her occupational performance over time.
+(I) Administration
+Assessor: This tool can be conducted by any rehabilitation team member.
+How: Ensure that the version used is the paediatric modified version. Select parent or child
+report as appropriate. The assessment involves a 5-step process nested within a semi-structured
+interview that focuses on identifying activities within each performance domain that the client
+wants, needs, or is expected to perform.
+Time: 15-30 minutes, semi-structured interview.
+Note: The COPM has been translated into 24 different languages. It is not currently available in
+Vietnamese however it is likely that a translation will be available.
+3.3.3. Goal Attainment Scaling (GAS)
+Goal Attainment Scaling (GAS) involves individualised, patient-generated goals scored on a 5
+point scale. GAS is used to evaluate services or an individualised program based on the
+attainment of individualised goals.
+Page | 31
+It requires extensive therapist training and experience to set goals adequately. Therapist’s
+correct judgement of the impact of the intervention and therapist’s ability to set realistic,
+accurate goals may be difficult to establish.
+(I) Administration
+Assessor: This tool can be conducted by any rehabilitation team member however it is typically
+used by physiotherapists and occupational therapists to set therapy goals and evaluate
+intervention.
+How: A five point goal scale is developed, usually via interview with the client/family and graded
+levels of possible goal attainment with descriptions of anticipated outcome are described for
+each goal. Goals are scaled from least favourable to most favourable outcome, with an expected
+outcome level in the middle. Goals need to follow SMART principles:
+(cid:1) Specific
+(cid:1) Measurable
+(cid:1) Achievable
+(cid:1) Realistic
+(cid:1) Time frame defined
+Time: approximately 20 to 30 minutes to establish goals, 10 minutes to reassess attainment.
+Note: Freely available from
+(cid:1) McDougall, J. and King, G. (2007) Goal Attainment Scaling: Description, Utility, and
+Applications in Pediatric Therapy Services. (2nd ed.). London, ON: Thames Valley
+Children’s Centre.
+(cid:1) Turner-Stokes, L. (2009) “Goal Attainment Scaling (GAS) in rehabilitation: a practical
+guide.” Clinical Rehabilitation,23, 4, 362-370.
+Recommendation -
+> Patient-centred therapy starts with the identification of the child’s and parent’s goals for
+occupational therapy. Occupational therapy assessment should begin with an Occupational
+Profile of the child. The COPM and GAS are internationally recognised tools for setting and
+evaluating goals and should be used to determine priority goals for therapy. The GAS requires
+extensive experience and training to use in a clinical setting and the capabilities of clinicians to
+utilise GAS will develop over time
+3.4. Assessment
+Occupational therapists will evaluate performance skills which are goal-directed actions that are
+observable as small units of engagement in daily life occupations. They are learned and
+developed over time and are situated in specific contexts and environments (AOTA, 2013).
+Various body structures, as well as personal and environmental contexts, converge and emerge
+as occupational performance skills. In addition, body functions, such as visual, sensory,
+neuromuscular, and movement-related functions, are identified as the capacities that reside
+Page | 32
+within the person and converge with structures and environmental contexts to emerge as
+performance skills. This description is consistent with WHO’s (2001) International Classification
+of Functioning, Disability and Health.
+The term context refers to elements within and surrounding a client that are often less tangible
+than physical and social environments but nonetheless exert a strong influence on performance.
+Contexts are cultural, personal, temporal, and virtual
+Body Structure and Function Assessments
+3.4.1. Assessment of Range of Motion (ROM)
+Range of Motion (ROM) is the range through which a joint can be moved as determined by the
+type of joint, its articular surfaces, and that allowed by regional muscles, tendons, ligaments,
+joints and physiologic control of movements across the joint. ROM is divided into three main
+types:
+• Passive range of motion (PROM) – the therapist passively moves the joint through the full
+arc of motion
+• Active assisted range of motion (AAROM) – the therapist and the patient work together
+to move the joint through the full arc of motion
+• Active range of motion (AROM) – the patient attempts to moves the joint through the full
+arc of motion
+Measurement of ROM
+The most common way to measure ROM is using a double-armed goniometer, a device used to
+measure joint angles in degrees. A stationary arm holding a protractor is placed parallel with a
+stationary body segment and a movable arm moves along a moveable body segment. The pin
+(axis of goniometer) is placed over the joint.
+• The purpose of measure ROM is to determine if the patient has enough available ROM in
+specific joints (e.g. shoulder, wrist) to participate in daily activities (e.g. dressing, eating,
+bathing).
+• ROM measurement can also be used to measure outcomes of stretch and muscle
+interventions (e.g. botox injections, casting and splinting).
+Note: A template that can be used to record ROM measurements can be found at
+https://www.dshs.wa.gov/sites/default/files/FSA/forms/pdf/13-585a.pdf
+3.4.2. Assessment of Motor Disorder and Muscle Tone
+The motor types associated with cerebral palsy are identified by physical assessment and clinical
+observation.
+Points to remember:
+• Hypertonia may still be evolving in the first two years of life with myelination
+Page | 33
+• Mixed presentations are common (spasticity/dystonia, dystonia/choreoathetosis)
+(I) Manual Muscle Test (MMT)
+Manual muscle testing measures muscle strength using a grading system, Grades 1-5. There
+are a number of different scales that are used for MMT (see table below).
+Manual muscle testing is an assessment of performance not capacity.
+> Administration
+Assessor: This assessment is typically carried out by a physiotherapist, occupational therapist or
+medical practitioner.
+How: The client is positioned in the most appropriate position to assess strength of specific
+muscles. The position will be dependent upon the level of strength present and the ability to
+move the limb against gravity.
+Time: 15–30 minutes; Administrative time is dependent on the muscle (s) selected, the age and
+cooperation of the participant.
+Medical
+Research Explanation
+Council
+5 Holds test position against maximal resistance
+4+ Holds test position against moderate to strong pressure
+4 Holds test position against moderate resistance
+4- Holds test position against slight to moderate resistance
+3+ Holds test position against slight resistance
+3 Holds test position against gravity
+3- Gradual release from test position
+Moves through partial ROM against gravity OR Moves through complete ROM
+2+
+with gravity eliminated and holds against pressure
+2 Able to move through full ROM with gravity eliminated
+2- Moves through partial ROM with gravity eliminated
+No visible movement; palpable or observable tendon prominence / flicker
+1
+contraction
+0 No palpable or observable muscle contraction
+Page | 34
+Recommendation -
+> The Medical Research Council Manual Muscle Testing Scale is strongly recommended for use
+with Manual Muscle Testing.
+(II) Assessment of Spasticity
+Modified Tardieu Scale (MTS)
+(http://www.rehabmeasures.org/Lists/RehabMeasures/PrintView.aspx?ID=1038)
+> Purpose: To identify presence of spasticity.
+The Modified Tardieu Scale is a scale for measuring spasticity that takes into account resistance
+to passive movement at both slow and fast speed. The scale originally began development in the
+1950s and has gone through multiple revisions (reviewed in Haugh 2006). The Modified Tardieu
+Scale is an adaption of the original, more complex and time consuming assessment (the Tardieu
+Scale).
+> Administration:
+Assessor: The Modified Tardieu Scale is carried out by an occupational therapist, physiotherapist,
+neurologist or rehabilitation medicine specialist.
+How: There are two parts to the assessment that are applied to each muscle group that is
+examined. In the first part of the assessment, the health professional slowly moves the person’s
+limb to observe the full range of their available movement (R2). In the second part of the
+assessment, the same limb is moved quickly (R1).
+The R1 and R2 range of motion values are measured using a goniometer.
+Individuals are positioned in sitting to test the upper extremities and supine to test the
+extremities according to standard protocols.
+R1 is then subtracted from R2 and this represents the dynamic tone component of the muscle.
+Upper Limbs Lower Limbs
+Shoulder flexors Hip flexors
+Shoulder internal rotators Hip extensors
+Elbow flexors Hip adductors
+Elbow extensors Knee flexors
+Wrist flexors Knee extensors
+Wrist extensors Ankle plantarflexors (m. Soleus)(knee joint flexed)
+Ankle plantarflexors (m. Gastrocnemius) (knee joint fully
+extended)
+Page | 35
+Time: Varies depending on the number of muscle groups assessed.
+Ashworth Scale and Modified Ashworth Scale
+(Ashworth, 1964; Bohannon & Smith, 1987)
+(http://www.rehabmeasures.org/Lists/RehabMeasures/PrintView.aspx?ID=902)
+> Purpose: to measure the presence of hypertonia.
+The Modified Ashworth Scale (MAS), a modification to increase the sensitivity of the original
+Ashworth Scale (AS), measures spasticity and is applied manually to determine the resistance of
+the muscles to passive movement. There is no reference to the velocity of the movement
+therefore the response of stretch reflex to the increasing velocity is not examined. The reliability
+of the scales is poor and the literature recommends interpretation of scores be used with
+caution.
+Ashworth Scale
+0 No increase in tone
+1 Slight increase in tone giving catch when the limb is moved in flexion and extension
+2 More marked increase in tone, but limb is easily flexed
+3 Considerable increases in tone, passive movement difficult
+4 Limb rigid in flexion or extension
+Modified Ashworth Scale
+0 No increase in muscle tone
+1 Slight increase in muscle tone, manifested by a catch and release or by minimal
+resistance at the end of the range of motion when the affected part(s) is(are) moved in
+flexion or extension.
+1+ Slight increase in muscle tone, manifested by a catch followed by minimal resistance
+through the remainder of the range of motion but the affected part/s is/are easily
+moved.
+2 More marked increase in muscle tone through most of the range of movement, but the
+affected part(s) is easily moved.
+3 Considerable increases in muscle tone, passive movement difficult.
+4 Affected part(s) is(are) rigid in flexion or extension.
+> Administration
+Assessor: This assessment is carried out by an occupational therapist, physiotherapist,
+neurologist or rehabilitation medicine specialist who assesses bilateral upper and lower limb
+muscles according to standard physical assessment protocol.
+How: Place the patient in a supine position. If testing a muscle that primarily flexes a joint, place
+the joint in a maximally flexed position and move to a position of maximal extension over one
+second (count "one thousand one”). If testing a muscle that primarily extends a joint, place the
+joint in a maximally extended position and move to a position of maximal flexion over one
+second (count "one thousand one”). Score based on the classification below.
+Page | 36
+Time: Varies depending on the number of muscle groups assessed
+Hypertonicity Assessment Tool (HAT)
+(Jethwa et al, 2010)
+> Purpose: to identify and discriminate between different forms of hypertonia.
+The Hypertonia Assessment Tool (HAT) is a discriminative measure that assists the clinician to
+identify the specific types of hypertonia present and how to best manage the hypertonia. It is a
+six item tool (Knights, et al, 2013) developed for children between the ages of 4 to 19 years,
+whereby the assessor moves the child’s body part in a series of purposeful movements in order
+to observe movement, increased tone and/or resistance. The presence of at least 1 HAT item
+per hypertonia subgroup ie spasticity, dystonia, rigidity, confirms the presence of the subtype
+and the presence of items from more than one subgroup identifies the presence of mixed tone.
+The HAT is capable of discriminating hypertonia subtypes for both the upper and lower
+extremities.
+The HAT was found to have good reliability and validity for identifying spasticity and the absence
+of rigidity (rigidity is rarely seen in paediatric population) and moderate findings for dystonia due
+to its variable nature. The HAT is stronger in identifying the presence of, rather than the absence
+of spasticity or dystonia and the reverse pattern was found for rigidity.
+> Administration
+Assessor: This assessment is carried out by an occupational therapist, physiotherapist,
+neurologist or rehabilitation medicine specialist.
+How: Clinician completes ALL 6 items on one extremity before moving to the next next
+extremity. It is recommended that all four limbs are assessed. Items are listed in the suggested
+order of administration in the HAT manual.
+http://www.hollandbloorview.ca/research/scientistprofiles/documents/HATUserManual.pdf
+Time: Approximately 5 minutes to conduct per limb assessed
+(II) Assessment of Dystonia
+To assess dystonia it is important to observe at rest and with voluntary movements as well as to
+measure and feel. There is usually variable resistance to movement, often in extensor groups but
+it can be both directions.
+Hypertonicity Assessment Tool (HAT)
+See above.
+Page | 37
+Barry Albright Dystonia Scale (BAD)
+(Barry et al, 1999)
+> Purpose: to identify and quantify dystonia.
+The Barry Albright Dystonia (BAD) Scale is a reliable and responsive five-point criterion based
+ordinal rating scale for quantifying secondary dystonia. It rates the severity of dystonia in eight
+body regions, including eyes, neck, mouth, trunk, upper limbs and lower limbs.
+> Administration
+Assessor: This assessment is carried out by an occupational therapist, physiotherapist or
+Physician experienced in secondary dystonia and cerebral palsy.
+How: Assess the patient for dystonia in each of the following regions: eyes, mouth, neck, trunk,
+each upper and lower extremity (8 body regions). Rate severity based only on dystonia as
+evidenced by abnormal movements or postures. When assessing functional limitations, do not
+score as dystonia-induced functional limitation if other factors, such as weakness, lack of motor
+control, cognitive deficits, persistent primitive reflexes, and/or other movement disorders are
+contributing to functional limitation.
+Eyes: signs of dystonia of the eyes include: prolonged eyelid spasms and/or forced eye
+deviations
+0 Absent
+1 Slight: dystonia less than 10% of the time and does not interfere with tracking
+Mild: frequent blinking without prolonged spasms of eyelid closure, and/or eye
+2
+movements less than 50% of the time
+Moderate: prolonged spasms of eyelid closure, but eyes open most of the time, and/or
+3 eye movements more than 50% of the time that interfere with tracking, but able to
+resume tracking
+Severe: Prolonged spasms of eyelid closure, with eyelids closed at least 30% of the
+4
+time, and/or eye movements more than 50% of the time that prevent tracking
+Unable to assess eye movements
+Mouth: signs of dystonia of the mouth include grimacing, clenched or deviated jaw, forced open
+mouth, and/or forceful tongue thrusting
+0 Absent
+Slight: dystonia less than 10% of the time and does not interfere with speech and/or
+1
+feeding
+Mild: dystonia less than 50% of the time and does not interfere with speech and/or
+2
+feeding
+Moderate: dystonia more than 50% of the time and/or dystonia that interferes with
+3
+speech and/or feeding
+Severe: dystonia more than 50% of the time and/or dystonia that prevents speech
+4
+and/or feeding
+Unable to assess mouth movements
+Page | 38
+Neck: signs of dystonia of the neck include pulling of the neck into any plane of motion:
+extension, flexion, lateral flexion or rotation
+0 Absent
+Slight: pulling less than 10% of the time and does not interfere with lying, sitting,
+1
+standing and/or walking
+Mild: pulling less than 50% of the time and does not interfere with lying, sitting,
+2
+standing and/or walking
+Moderate: pulling more than 50% of the time and/or dystonia that interferes with lying,
+3
+sitting, standing and/or walking
+Severe: pulling more than 50% of the time and dystonia that prevents sitting in a
+4
+standard wheelchair (e.g. requires special head rest), standing and/or walking
+Unable to assess neck movements
+Trunk: signs of dystonia of the trunk include pulling of the trunk into any plane of motion:
+extension, flexion, lateral flexion or rotation
+0 Absent
+Slight: pulling less than 10% of the time and does not interfere with lying, sitting,
+1
+standing and/or walking
+Mild: pulling less than 50% of the time and does not interfere with lying, sitting,
+2
+standing and/or walking
+Moderate: pulling more than 50% of the time and/or dystonia that interferes with lying,
+3
+sitting, standing and/or walking
+Severe: pulling more than 50% of the time and dystonia that prevents sitting in a
+4
+standard wheelchair (e.g. requires adapted seating system), standing and/or walking
+Unable to assess trunk movements
+Upper extremities: signs of dystonia of the upper extremities include sustained muscle
+contractions causing abnormal postures, score each limb separately
+0 Absent
+Slight: dystonia less than 10% of the time and does not interfere with normal
+1
+positioning and/or functional activities
+Mild: dystonia less than 50% of the time and does not interfere with normal positioning
+2
+and/or functional activities
+Moderate: dystonia more than 50% of the time and/or dystonia that interferes with
+3
+normal positioning and/or upper extremity function
+Severe: dystonia more than 50% of the time and/or dystonia that prevents normal
+4
+positioning and/or upper extremity function (e.g. arms restrained to prevent injury)
+Unable to assess upper extremity movements
+Lower extremities: signs of dystonia of the upper extremities include sustained muscle
+contractions causing abnormal postures, Score each limb separately
+0 Absent
+Slight: dystonia less than 10% of the time and does not interfere with normal
+1
+positioning and/or functional activities
+Mild: dystonia less than 50% of the time and does not interfere with normal positioning
+2
+and/or functional activities
+Page | 39
+Moderate: dystonia more than 50% of the time and/or dystonia that interferes with
+3
+normal positioning and/or lower extremity weight bearing and/or function
+Severe: dystonia more than 50% of the time and/or dystonia that prevents normal
+4
+positioning and/or lower extremity weight bearing and/or function
+Unable to assess lower extremity movements
+Time: Approximately 8 minutes of video (if used) plus time to score body segment movements.
+(III) Assessment of Athetosis/Choreoathetosis
+Assessment for chorea, athetosis and choreoathetosis is by observation of involuntary
+movements characterised by:
+(cid:1) Uncontrolled, slow and writhing movements (athetosis)
+(cid:1) An ongoing random-appearing sequence of one or more discrete involuntary movements
+or movement fragments (chorea)
+(cid:1) Both (choreoathetosis)
+3.4.3. Assessment of Functional Strength
+Strength is important to engage in meaningful activities and is defined as a function of muscle
+power.
+• Grip/hand strength can be measured using a handheld dynamometer, but since muscle
+tone is typically impaired in children with CP, it may be difficult to use standard tools to
+measure upper body strength.
+• Strength is required to perform daily activities which include reaching, grasping, holding,
+and carrying and occupational evaluation should include clinical observation of how the
+patient interacts with and moves objects and self in his/her environment.
+• Therapist should use a checklist of functional daily activities which require strength can
+provide important information about muscle power required to participate in daily
+occupations.
+Examples of daily activities which require strength:
+(cid:1) Pulling shirt and pants on and off body (cid:1) Opening containers
+(cid:1) Maintaining grasp and hold on feeding (cid:1) Screwing and unscrewing lids
+utensils (cid:1) Opening zip-loc bags
+(cid:1) Grasping and holding a cup with liquid (cid:1) Maintaining grasp and hold writing
+(cid:1) Picking up and holding toys of various tools (pencil, marker)
+weight (cid:1) Using scissors to cut
+(cid:1) Pushing and pulling handles on toys
+Page | 40
+3.4.4. Assessment of Pain
+(I) Visual Analogue Scale (VAS)
+VAS is a measurement instrument that helps to determine pain that a patient feels ranges across
+a continuum from none to an extreme amount of pain. Validated in children 10 to 18 years of
+age.
+This scale is a child report of pain and the choice of terms is specific to the type of scale. VAS
+can be presented in several ways, including:
+(cid:1) Scales with a middle point, graduations or numbers (numerical rating scales),
+(cid:1) Meter-shaped scales (curvilinear analogue scales),
+(cid:1) "Box-scales" consisting of circles equidistant from each other (one of which the subject
+mark), and
+(cid:1) Scales with descriptive terms at intervals along a line (graphic rating scales or Likert
+scales)
+(cid:1) Faces representative of emotions
+Types of visual analogue scales:
+> Administration
+Assessor: The screening can be carried
+out by an occupational therapist,
+physiotherapist, nurse or medical practitioner.
+Types of visual analogue scales
+How: The child is asked to rate his or her
+current pain based on the scale; “0” being no pain and “10” being extreme or severe pain.
+Time: Approximately 5 minutes
+Available: http://www.blackwellpublishing.com/specialarticles/jcn_10_706.pdf
+(II) Paediatric Pain Profile (PPP)
+The Paediatric Pain Profile is an outcome tool used to provide ongoing assessment and
+monitoring of pain in children with neurological disorders and can be used for children 1 to 18
+years of age who are unable to communication through speech or ACC.
+Assessor: This is an observational and parent report outcome measure of child behaviours which
+can be carried out by an occupational therapist, physiotherapist, nurse or medical practitioner.
+How: Each of the items of the PPP can by observed by the provider and parents can answer
+specific questions to rate their child’s behaviours or reaction during specific activities. The PPP is
+a 20-item behavioural response scale with each question scored from “0” (not at all) to “3” (a
+great deal), except for the first two questions in which the scoring is reversed. Responses to all
+Page | 41
+questions are summed to give a total score between 0 and 60. Cut-off scores are used to
+determine pain severity: scores of 14/60 indicate clinically significant pain and can be additionally
+grouped into levels of severity mild (10-19), moderate (20-29), severe (30-39) and very severe (40
+or greater).
+Time: Approximately 20 minutes
+Available: http://www.ppprofile.org.uk/ppptooldownload.php?s=209
+3.4.5. Assessment of Sensation
+Tactile impairment impacts on upper limb function in a significant proportion of children with CP.
+These deficits may occur in tactile registration and/or tactile perception (which may be spatial,
+temporal, or textural) and over 77% of children with unilateral CP have tactile perception deficits
+and over 40% have concomitant registration and perception deficits (Auld, 2011 & 2012).
+(I) Tests of sensation:
+Reliable assessment of sensation using these measures requires the patient to accurately
+respond to the evaluators questions. These assessments may not be reliable for children with
+intellectual impairments (Auld, 2011 & 2012).
+1) Tactile registration can be measured using the full 20-item Semmes-Weinstein monofilaments
+kit. Starting with the monofilament of value 2.83 (lower side of normal sensation), the
+monofilament is applied to the skin surface of the four fingers three times in a random order,
+with one response out of three taken as an affirmative response, as indicated by the original test
+methodology.
+2) Intensity/Texture Tactile Perception can be tested using the Perspex board (AsTex) that
+displays tactile gratings of reducing tactile discrimination index. Starting at the rough end of the
+board, the therapist guides the child’s index finger, then thumb, then 5th finger was guided by
+the examiner along the board at a constant speed in a standardized manner. Children are
+instructed to stop immediately when the texture of the board feels smooth (gratings became too
+close together to determine their separation).
+3) Motor-enhanced tactile perception: Stereognosis. Nine common objects are placed to the side
+of the child within the child’s view. These objects include 3 unrelated objects (peg, key, spoon)
+and six objects that come in associative pairs (a coin and a button of similar size, a pen and a
+pencil, a paperclip and a safety pin). The examiner has an identical set of objects that are placed
+in the child’s testing hand one at a time in a random order. The child is asked to manipulate the
+object and/or was assisted to touch the object and to either name or point to the object that was
+identical to the one placed in his/her hand. The total score is the number of correct responses out
+of a possible maximum of 9.
+Page | 42
+3.4.6. Assessment of Vision
+(see General Guidelines for further information about Associated Visual Impairments)
+Visual impairments and visual processing disorders will impact the patient’s ability to participate
+in daily activities. Occupational therapists should evaluate the patient’s ability to use functional
+visual skills including visual fixation, scanning, attention, and discrimination in everyday activities.
+For patients who are in school, an occupational therapist may need to evaluate higher level visual
+perceptual and visual motor skills required for reading and writing.
+(I) Screening for visual impairment
+1) Ophthalmological examination which focuses on visual acuity, refractive state of the eyes,
+ocular health, and, visual field assessments.
+2) Behavioural examination of functional vision focuses on how a child uses visual skills to
+complete everyday activities. This can include parent report of any difficulties the child is having
+when using vision during functional tasks.
+(II) Assessment specific to visual impairments
+The CVI Questionnaire screens for or cortical visual impairment in children suspected of CVI
+(Ortibus et al, 2011).
+Assessor: The CVI Questionnaire is a parent-report questionnaire which can be carried out by an
+occupational therapist, physiotherapist, nurse or medical practitioner.
+How: The 47 questions can be given to a parent to complete independently or discussed as a
+semi-structured interview. CVI characteristics are rated as present/not present. The clinician
+should be responsible for calculating the sum scores and the information shared with the child’s
+medical practitioner.
+Time: Approximately 15 minutes
+Available:
+http://download.lww.com/wolterskluwer_vitalstream_com/PermaLink/COOP/A/COOP_2012_05_
+31_LEHMAN_656_SDC1.pdf
+The Functional Visual Questionnaire assesses daily visual performance in children with CP who
+are difficult to assess due to sever ere motor, cognitive, and communication impairments
+(Ferziger et al., 2011).
+Assessor: The Functional Visual Questionnaire is a parent or teacher-report measure which can
+be carried out by an occupational therapist, physiotherapist, nurse or medical practitioner.
+Page | 43
+How: This 26-item questionnaire is divided into two sections. Section 1 (questions
+1–12) is a general assessment of the participant’s use of visual motor skills in a classroom
+setting, in both regular- and low-light environments. Section 2 (questions 13–26)
+assesses the child’s visual skills in the following areas of function: communication, ADL, play and
+leisure, and mobility and orientation. The questionnaire can be given to a parent or teacher to
+complete independently or discussed as a semi-structured interview following a 2-week
+observation period and before the ophthalmological examination. Each question is rated on a 5-
+point ordinal scale reflecting the degree of performance from poor to very good. The clinician
+should be responsible for calculating the sum scores and the information shared with the child’s
+medical practitioner.
+Time: Approximately 20 minutes
+Available: https://www.ncbi.nlm.nih.gov/pubmed/21309767
+The Visual Skills Inventory (VSI) evaluates visual skills and responses to familiar situations in
+children with neurological impairments (McCullough et al., 2007).
+Assessor: The VSI is a parent-report measure which can be provided to the caregivers by an
+occupational therapist, physiotherapist, nurse or medical practitioner
+How: This parent-report questionnaire has 22 questions which are scored yes/no for visual
+behaviours; additional scores for some items (e.g. distance for vision from 6 feet to <1 foot). The
+clinician should be responsible for reviewing the answers to the questionnaire and sharing
+information with the child’s medical practitioner.
+Time: Approximately 10 minutes
+Available: https://www.ncbi.nlm.nih.gov/pubmed/17880645
+Activity and Participation Assessments
+3.4.7. Box and Blocks
+Assessor: The Box and Blocks is a capacity assessment of upper extremity reach and grasp using
+a common toy (block) which can be completed by an occupational therapist or physiotherapist.
+How: The test includes a box with 150 blocks. A partition(divider) is placed lengthwise in the
+middle of the box to divide the box into two sides. Directions give to patient “I want to see how
+quickly you can pick up one block at a time with your right (or left) hand [point to the hand]. Carry
+it to the other side of the box and drop it. Make sure your fingertips cross the partition. Watch
+me while I show you how.” Following the demonstration and practice, the patient is given 1-
+Page | 44
+minute to transfer blocks from one side to the other. The examiner records how many blocks are
+successfully transferred in 1-minutes.
+Time: 5-10 minutes
+Available: Instruction for the Box and Block test are available at
+http://www.rehabmeasures.org/PDF%20Library/Box%20and%20Blocks%20Test%20Instruction
+s.pdf
+3.4.8. Quality of Upper Extremity Skills Test (QUEST)
+Assessor: The QUEST is a capacity assessment of the quality of hand and arm movement
+patterns and function in children with CP who are 18 months to 8 years of age. There are four
+sections: 1) dissociated movement, 2) grasp, 3) weightbearing, and 4) protective extension. The
+assessment can be completed by an occupational therapist or physiotherapist.
+How: The examiner encourages the child to complete movement activities in each section
+through verbal encouragement, toys, demonstration, and/or handling the child as necessary. The
+child must demonstrate the required position without physical assistance, e. g., the therapist
+cannot hold the arm in extension against gravity, but may facilitate this through weight bearing,
+placing, etc. The child must hold the position for at least 2 seconds. The order of administration
+can be changed to suit the child and therapist. If a child has a fixed contracture, the contracted
+position should be considered full range (e.g., if the child is lacking 10 degrees of extension due
+to a contracture, that position is considered full extension for that child).
+Time: Approximately 45 minutes to administer all four sections
+Available: The English version of the QUEST is available, but can be translated into Vietnamese:
+https://canchild.ca/en/shop/19-quality-of-upper-extremity-skills-test-quest
+3.4.9. Pediatric Motor Activity Log (PMAL)
+Assessor: The PMAL is a parent-report questionnaire measuring real-world use of impaired
+upper limb in common daily activities, capturing both perceived amount of use and quality of use.
+The assessment can be administered by an occupational therapist or physiotherapist.
+How: The PMAL is completed through a semi-structured interview with the parent. The parent is
+asked specific questions about the way the child uses his/her upper limbs from a list of 22 real-
+world activities. It is important to determine what the child does outside the treatment or
+hospital setting. The parent is asked to rate the “How Often” and “How Well” the child
+completes each specific activity using a 6-point scale. After administering the full PMAL, the
+mean PMAL scores are calculated for the two scales (How Often & How Well) by adding the
+rating scores on each of the scales and dividing by the number of items asked.
+Page | 45
+Time: Approximately 20-30 minutes
+Available: The English version of the Revised-PMAL is available but can be translated into
+Vietnamese. https://www.uab.edu/citherapy/images/pdf_files/CIT_PMAL_Manual.pdf
+3.4.10. Assessment of ability to manage routine tasks requiring
+both upper extremities – (ABILHAND-Kids)
+Assessor: The ABILHAND-Kids is a parent completed questionnaire that assesses manual
+abilities of children 6 to 15 years of age who have impaired upper limb functions.
+How: The assessment consists of 21 items covering both unimanual and bimanual self-care
+activities. Each item is rated as 0=impossible, 1=difficult, 2=each, yielding a score range of 0 to
+42. The parent is asked to estimate the child’s ease or difficulty in performing each activity
+without assistance, irrespective of using right or left upper limb, and using whatever means
+necessary (compensation is allowed).
+Time: Approximately 20 minutes
+Available: The English version of the ABILHAND-Kids is available but can be translated into
+Vietnamese
+http://www.rehab-scales.org/abilhand-kids-downloads.html
+Environmental Assessments
+Children with cerebral palsy live and carry out activities in many environments including home,
+preschool/school and the community. For many children, environmental barriers will exist that
+significantly impact upon the achievement of their goals, particularly goals related to social and
+community participation, inclusion and learning. Examples of environmental barriers that may
+exist include:
+(cid:1) Physical barriers (e.g. lack of ramps, uneven roads and footpaths, steep
+inclines/hills/mountains, river/creek/stream crossings etc.)
+(cid:1) Lack of suitable adaptive and assistive equipment (e.g. poor seating options, no
+wheelchair/walking aid, no/limited access to learning materials such as adapted writing
+utensils or accessible computer/technology/software etc.)
+(cid:1) Attitudinal barriers (e.g. lack of understanding of cerebral palsy and disability resulting in
+stigmas leading to people with cerebral palsy being excluded and not accepted into their
+community etc.)
+(cid:1) Governmental/policy barriers (e.g. limited access to health/rehabilitation services outside
+of medical facilities such as hospitals or clinics, cost of certain medical/rehabilitation
+interventions etc.)
+Page | 46
+3.5. Evidence-Based Practices in CP - OT
+Evidence-based decision making involves the integration of best available clinical evidence from
+systematic research, the proficiency and judgment clinicians acquire through clinical experience
+and client values and preferences in making clinical decisions about their care (Sackett et al.,
+1996). Decision making is also made with consideration to the organisational context (for
+example local policies, procedures and beliefs around approaches) (Figure 3).
+Clinical
+Expertise
+Organizational
+context
+EBP
+Best available Patient/ client
+research values +
+evidence preferences
+Figure 3. EBP
+framework
+Evidence-based practice should guide the management of children with CP across Vietnam.
+The ICF guides evidence-based practice in the management of children with CP. Research
+findings demonstrate that interventions for CP are only effective for one domain of the ICF. That
+is, interventions targeting the body functions and structure impairments will have outcomes at
+the body functions and structure domain only. If outcomes are desired at the activities and
+participation domains of the ICF, interventions that are proven to impact these domains are
+directed at the activity and participation limitations (Table 1, Novak et al., 2013)
+The intervention strategies outlined in these guidelines represent the current and highest level of
+evidence-based practice for the management of children with CP.
+Page | 47
+Table 1. Green light interventions for children
+with CP from Novak et al, 2013
+The following factors are important when reviewing the evidence-based for interventions for the
+management of children with CP.
+(cid:1) Dosing represents a critical and pressing aspect of intervention that is central for
+treatment efficacy and is defined as the frequency, intensity, time, and type of an
+intervention.
+(cid:1) Frequency refers to how often, such as the number of sessions for a given intervention
+per day, week, or month.
+(cid:1) Intensity refers to how hard the child works, the amount of effort, within the intervention
+session and is recorded as the number of repetitions per minute, day, or week or amount
+of work (eg, 75% of maximal heart rate).
+(cid:1) Time refers to the duration of the intervention.
+(cid:1) Type refers to the kind of intervention and can be focused at any of the dimensions of the
+International Classification of Functioning, Disability and Health (ICF): body functions and
+structures, activity, or participation. Within types, variation exists. For example, task
+practice can vary in the type of behavioural shaping (ie, structured versus unstructured
+training) and amount of feedback or reward (Kolobe et al., 2014).
+Intervention studies must first demonstrate effectiveness in achieving a meaningful outcome
+then follow with carefully designed studies to determine the minimal dose required to elicit or
+maintain the same desired functional outcome.
+Page | 48
+To date, the minimum doses for changing structure and function, activity, and participation in
+children with CP are unknown and determining the effective dose of specific interventions is a
+focus of future intervention studies.
+Maximising outcomes in children with cerebral palsy will most often require a combination of
+therapy approaches targeting different levels of the ICF – body structure and function
+interventions, activity and participation interventions and interventions targeting the
+environment. The relative contribution of each of these approaches will vary according to each
+individual child’s presentation and identified needs and goals. As such, an integrated care
+approach should be promoted to enable children to receive appropriate interventions in a timely
+and efficient manner.
+For example, the presence of a muscle contracture in the gastrocnemius or elbow flexors may
+require serial casting (a body structure and function intervention) to reduce the contracture
+followed by a motor learning based intervention such as goal directed therapy or constraint
+induced movement therapy (activity and participation interventions) to gain or maintain functional
+skills.
+Body Structure and Function Interventions
+3.5.1. Stretch Interventions
+Stretch interventions are widely utilised for the treatment of contractures in children with CP
+with the aim of maintaining or increasing range of motion at a specific joint. Stretch can be
+applied in three main forms:
+(cid:1) The application of orthoses
+(cid:1) Serial casting
+(cid:1) Positioning program
+Stretch interventions aim to elongate soft tissue. Low load prolonged stretch is more effective
+than short held, passive stretches.
+(I) Splinting and Orthoses
+The prescription and manufacture of upper and lower limb orthoses is common practice with
+children with CP. A splint or orthosis is a removable external devices designed to support a
+weak or ineffective joint or muscle.
+The main purposes of orthoses or splints are to maintain range of motion and assist with
+function. An orthosis is usually applied at the tolerable end of joint range. Often a variety of
+orthoses may be required for different activities and to achieve different goals.
+Page | 49
+Orthoses are generally manufactured from low temperature thermoplastics or materials such as
+lycra and neoprene (by occupational therapists and physiotherapists in the therapy setting) or
+from high temperature thermoplastics (by orthotists).
+Functional Orthoses
+Functional orthoses generally position joints in a biomechanically advantageous position to either
+enable or improve function. Examples may include:
+(cid:1) Ankle foot orthoses (AFO’s) – a variety of AFO’s are available with varying purposes
+(cid:1) Wrist extension orthoses
+(cid:1) Neoprene wrist and thumb orthoses
+Non-functional Orthoses
+Positional orthoses aim to maintain corrected anatomical alignment of the joint and maintain
+range of motion around that joint (such as after botox or surgery). This may be important for
+ease of care, to reduce the requirement for future orthopaedic surgery and in some cases to
+maintain healthy skin integrity. Examples of positional orthoses may include:
+(cid:1) Spinal braces
+(cid:1) Leg or elbow wrap arounds
+(cid:1) Hip abduction orthoses
+Clear dosage information around wearing regimes for orthoses is currently lacking. Decisions
+around wearing regimes need to be made with consideration to the individual goals identified by
+each child and family.
+Upper Extremity Orthoses
+Upper limb deformities caused by spasticity in the elbow, wrist, and digits can lead to several
+significant contractures. Splints and serial casting may be used to passively stretch contracted
+and spastic muscles and are most effective when used in conjunction with botulinum toxin A
+injections (Kanellopoulos et al., 2009)
+(cid:1) Elbow movement is affected by spastic biceps, brachialis anterior and brachioradialis
+muscles.
+(cid:1) Forearm movement is affected by spastic pronator teres, pronator quadratus, and flexor
+carpi ulnaris muscles.
+(cid:1) Wrist movement is affected by ulnar deviation due to spastic flexor carpi ulnaris.
+(cid:1) Finger movement is affected by spastic flexor digitorum, and the flexor digitorum
+profundus.
+(cid:1) An indwelling or “thumb-in-palm” deformity is due to spastic adductor pollicis longus or
+flexor pollicus brevis muscles.
+Splints can also be used to support a weak or ineffective joint or muscle, prevent or correct joint,
+deformities, improve functional use of the upper limb, and improve position for hygiene and/or
+outward appearance.
+Page | 50
+(cid:1) Although there is little published evidence to support the use of hand or elbow splints in
+children with neurologic conditions, splints continue to be widely prescribed for all MACS
+levels to improve upper limb skills and functional activities (Shierk, Lake, & Haas, 2016).
+(cid:1) There is evidence to support the use of thumb opponens splints to improve hand function
+in children with unilateral CP and bracing of the wrist and thumb to improve spontaneous
+use of the affected upper limb in bimanual activities (Ten Berge et al., 2012).
+(II) Casting
+Casting is the application of individually moulded casts made of either plaster or synthetic casting
+materials with the aim of increasing passive range of movement of tight or contracted muscles,
+by applying a prolonged low load stretch across a joint or joints to lengthen affected muscles.
+Serial casting involves applying a number of casts in succession to gradually increase passive
+range of movement.
+Casting is indicated when soft tissue contracture is interfering with function or causing potential
+biomechanical misalignment. Casting is not indicated when there are bony changes occurring at
+a joint. Casting only provides a short term stretch and is usually required to be repeated at
+regular intervals particularly as children undergo a growth spurt. Casting is unlikely to be an
+effective intervention for long term contractures where bony changes might be limiting ROM.
+Rationale for Use of Serial Casting
+Biomechanically, casting imposes a continuous stretch on a muscle/group of muscles, leading to
+an increase in muscle fibre length due to an increase in the number of sarcomeres. This
+increased muscle length reduces the overall soft tissue contracture. It is important to note here
+that casts should never be left on for more than 5-7 days as there is evidence to support the loss
+of sarcomeres if a joint is left immobilised in a cast for too long.
+When casting is being considered the impact of the current level of soft tissue contracture on
+function must be determined. For example, a 10° knee flexion contracture in a child at GMFCS
+Level III who walks with a Kaye walker is problematic as the contracture will impact on their gait,
+whereas in a child at GMFCS Level V this degree of contracture will not impact on their seating
+and positioning. Similarly a 20° flexion contracture at the elbow is not likely to impact
+functionally on a child’s day to day activities such as dressing or even reaching but may impact
+on their ability to participate in sport or on overall cosmesis when walking, as arm swing may not
+look natural.
+Who
+Serial casting for the upper limb and lower limb should only be applied by therapists who have
+completed sufficient training and gained basic competencies in the techniques. An
+understanding of the neurophysiological and biomechanical reasons for casting, types of casts,
+timings, adverse events and complications is required prior to commencing any casting program.
+Page | 51
+How
+Casting may be considered following assessment and the determination that muscle contracture
+is limiting the achievement of the identified goals. Casting material required includes appropriate
+stockinette, under-padding, casting material (plaster of paris or synthetic). The advantages of
+synthetic materials include ease of application, speed of drying (in comparison to plaster of paris)
+and decreased overall weight on the limb. Disadvantages of synthetic materials include the need
+to remove rigid casting material with a cast saw (this prevents the ability of the family to remove
+the cast at home if required), some materials contain fibreglass which require personal protective
+equipment (eye glasses and nose/mouth masks) to decrease risk of airborne particles being
+ingested.
+The limb to be cast is held at the desired position, usually at the tolerable end point of passive
+range, and in the optimal biomechanical alignment. The ankle should be cast in subtalar neutral.
+When casting the wrist, consider the alignment of the fingers and thumb.
+The under-padding is applied followed by the casting material. Care should be given to ensure
+that the joint does not move during and after application. Ensure that circulation has not been
+compromised.
+Each cast is left on for between 3-5 days before it is removed. Reassessment of the range of
+movement is carried out to determine the effectiveness of the casting intervention.
+3.5.2. Muscle Tone Interventions
+Please refer to the General Guidelines for specific interventions to treat motor disorders and
+muscle tone. These may include, but are not limited to: 1) botulinum toxin A (BoNT-A) injections,
+2) medications, 3) intrathecal baclofen (ITB), and surgical procedures such at Selective Dorsal
+Rhizotomy (SDR).
+There is a high level of evidence to support the use of BoNT-A as an adjunct to managing the
+upper limb in children with spastic CP. BoNT-A should not be used in isolation but should be
+accompanied by planned occupational therapy (Hoare, et al., 2010).
+3.5.3. Pain Interventions
+Please refer to the General Guidelines for specific interventions to treat pain.
+Pain Management and the treatment of pain may vary depending on the cause of pain.
+• The first aim is to identify the cause and effect of your pain. Pain is classified as acute or
+chronic pain based on its duration.
+• There are several different classes of oral drugs that can be used to alleviate pain.
+• Non-pharmacological treatments can be warmth including a warm bath or cold such as an
+ice pack. Sometimes massage can help relieve tense muscles.
+Page | 52
+• For musculoskeletal pain, regular active movement and exercise is the key to strength
+and will often reduce pain.
+3.5.4. Oral Motor and Feeding Interventions
+Eating and feeding occur within the social environment and often include family members and
+other caregivers in the process. Occupational therapists addressing feeding, eating, and
+swallowing issues must collaborate and work closely with family members and caregivers who
+take part in mealtimes. In addition, therapists must consider psychosocial, cultural, and
+environmental factors which may strongly influence feeding behaviors.
+(cid:1) Feeding – the term used to describe the process of setting up, arranging, and bringing
+food (or liquids) from the plate or cup to the mouth. Also considered self-feeding.
+(cid:1) Eating – the term defined as the ability to keep and manipulate food or fluid in the mouth
+and swallow it.
+(cid:1) Swallowing – involves a complex act in which food, fluid, medication, or saliva is moved
+from the mouth through the pharynx and oesophagus into the stomach.
+Occupational therapy interventions for the comprehensive management of oral motor, eating,
+feeding, and swallowing disorders includes:
+1) Training in use of adaptive feeding equipment (e.g. modified eating utensils)
+2) Intervention for physical problems which restrict a child from bringing food or liquid to the
+mouth (e.g. children with upper limb contractures may have limited ability self-feed or
+bring food to mouth).
+3) Intervention for oral motor and mechanical issues which impact the child’s ability to chew
+and manage food or liquid during the oral phase of eating. Children with CP who have
+abnormal oral-facial muscle tone may require special oral motor exercises for hypo or
+hypertonicity of oral-facial muscles.
+4) Intervention for sensory issues which impact desire to eat (e.g. oral sensory
+defensiveness).
+5) Behaviorally based feeding disorders (e.g. refusal to eat).
+6) Positioning problems which may impact feeding, eating, and swallowing. For example,
+poor head control and inability to hold head at midline can impact functional and safe
+swallowing.
+3.5.5. Acupuncture
+Acupuncture involves the insertion of fine needles into the skin to stimulate certain parts of the
+body.
+Evidence for acupuncture:
+(cid:1) A systematic review by Zhang et al (2010) found that the use of acupuncture with or
+without additional interventions such as conventional therapy may benefit children with
+CP but lacks sufficient evidence. A systematic review by Yang et al. (2015) reviewed the
+efficacy and safety of acupuncture for children and found:
+Page | 53
+(cid:1) Acupuncture may be a promising intervention for cerebral palsy to improve ADLs scores
+when used as adjunct with conventional treatment (e.g. rehabilitation with occupational
+and physical therapy, medications, surgical interventions).
+(cid:1) Acupuncture may be a promising intervention for nocturnal enuresis, tic disorders,
+amblyopia, and pain reduction in neonates receiving a heel prick during blood draws.
+(cid:1) The efficacy of acupuncture for hypoxic–ischaemic encephalopathy, attention deficit
+hyperactivity disorder, mumps, and myopia remains unclear.
+(cid:1) The efficacy of acupuncture for asthma and nausea/vomiting is controversial.
+Current evidence does not support the use of acupuncture for paediatric epilepsy
+Recommendation -
+> Clear treatment goals should be identified before undertaking acupuncture and all treatment
+should be evaluated to determine if it has been effective.
+Activity and Participation Interventions
+3.5.6. Goal Directed Therapy / Task-Oriented Therapy
+Goal-directed and task-oriented therapy focuses on everyday skills in the child’s natural
+environment with the goal of improving performance and increasing independence with daily
+activities.
+(cid:1) The therapist, child, and family collaborate to set goals with the therapist providing
+strategies for task specific practice to utilize a motor learning approach
+(cid:1) This intervention has been used for children with CP of all MACS levels and is effective
+for improvement of basic motor abilities, increased independence with selfcare, and goal
+attainment.
+(cid:1) Overall, goal-directed therapy is effective in improving hand function and self-care skills. It
+is frequently combined with other intervention strategies including CIMT, bimanual
+training, and home programs.
+(cid:1) It is important to understand the developmental timeline when specific gross-motor, fine-
+motor, and self-care skills are typically mastered to identify age appropriate goals for
+patients.
+3.5.7. Constraint Induced Movement Therapy (CIMT)
+CIMT is a rehabilitation strategy to increase functional use of the weaker or affect upper limb
+through repetitive and adaptive task practice while the strong or non-affected upper limb is
+restrained (Ramey et al, 2013). It is primarily used with children with unilateral motor deficits,
+such as children with hemiplegic CP.
+There are five essential elements for paediatric CIMT (Pidcock, 2017; Ramey et al, 2013)
+(cid:1) Constraint of the non-affected or stronger upper limb
+Page | 54
+(cid:1) High dosage of therapy (30 hours or greater)
+(cid:1) Use of repetitive and adaptive task practice (massed practice)
+(cid:1) Sessions take place in the child’s natural environment if possible (e.g. home/school)
+although clinic/hospital models have been found to be effective also
+(cid:1) Transition or discharge program to start when CIMT is completed
+Adaptive task practice, or shaping, involves breaking a task into several smaller, more
+manageable components to improve the child’s overall efficiency in performing the task. Massed
+practice, or high-density repetition of motor movements, helps integrate new motor skills into
+everyday behaviours. CIMT is effective for development of unimanual actions brought about by
+this type of implicit motor learning. Therapy activities target motor patterns and functional skills
+in the weaker, affected upper limb. These movement patterns can include increased reach to
+objects, improved grasp and variation in grasp, increased grip strength, and improved and timely
+release of objects. CIMT can be provided in individual or in group therapy formats.
+Evidence for the use of CIMT:
+There are over 100 published studies on paediatric CIMT and 27 systematic reviews which reveal
+a modest to large effects of CIMT on improving efficiency and quality of movement of the
+impaired arm/hand compared with usual/customary care (Pidcock, 2017; Sakzewski, et al., 2015).
+3.5.8. Bimanual Therapy
+Bimanual therapy retains the intensive structure and task practice at CIMT, but the focus is
+improving the ability to perform bimanual activities. While CIMT appears to be an effective
+treatment strategy for many children with CP, CIMT may not necessarily be effective for children
+who have mild or severely affected hand function (MACS Level I or V) (Hoare & Greaves, 2017).
+Bimanual therapy uses carefully planned, repeated practice of two-handed, or bimanual, games
+and activities to improve a child’s ability to use their hands together in daily activities. It involves
+intensive, massed practice, similar to the dosage required for CIMT (> 30 hours) and can be
+provided during individual or group therapy formats.
+Using bimanual therapy, object properties can be adapted to trigger goal-related perceptual and
+cognitive processes required for children to learn to recognise when two hands are required for
+task completion (Gordon 2011; Gordon & Magill, 2012).
+(cid:1) The therapist encourages the child to use both hands during bimanual tasks and
+discourages unimanual skills using only the stronger non-affected upper limb.
+(cid:1) Therapy activities target bimanual movements such as those required to play with toys
+with two hands, transfer items between hands, remove or put on clothing, or carry or
+move toys.
+Page | 55
+3.5.9. Activities of Daily Living (ADLs)
+Motor learning is the primary approach for learning new motor skills. Occupational therapists
+should use motor learning strategies when training children to complete basic activities of daily
+living (ADLS=s) which involve self-care skills such as 1) dressing, 2) self-feeding, 3) oral hygiene,
+4) bathing, and 5) toileting (including management of clothing) and 6) grooming. The role of the
+occupational therapist is to facilitate functional independence in all ADLs and support
+participation in basic self-care that are meaningful to the child with CP and the family.
+When providing therapy for children with CP, it is important to consider the typical
+developmental timeline in which children complete basic self-care tasks and to set age
+appropriate goals to maximise the developmental windows of time when children are motivated
+to become independent in basic self-care.
+See the General Guidelines for the theory and evidence for current best-practice for maximising
+functional abilities and performance of activities of daily living using child-active approaches
+(Novak, 2014). These approaches promote active practice of real-life tasks (preferably in real-life
+environments). Child-active approaches are consistent with current neuroscience evidence about
+harnessing neuroplasticity.
+(cid:1) Task or activity analysis is an important part of using a motor learning approach to
+training patients to learn new motor skills.
+(cid:1) Therapists will also evaluate functional cognition during the child’s completion of ADLs.
+Functional cognition refers to the thinking and processing skills that are used to
+accomplish everyday activities in clinical, home, and community environments.
+(cid:1) A therapist performs a task analysis to break complex tasks into a sequence of smaller
+steps or actions (ie. steps required to put on a shirt or pair of pants). The therapist then
+teaches or trains the patient to complete the smaller steps to reach the goal of
+completing the full task independently.
+o Task/activity analysis addresses the typical demands of an activity, the range of
+skills involved in its performance, and the various cultural meanings that might be
+ascribed to it.
+o Occupation-based activity analysis places the person in the foreground. It
+considers the person’s interests, goals, abilities, and contexts, as well as the
+demands of the activity itself.
+o These considerations shape the practitioner’s efforts to help the person reach
+his/her goals through carefully designed evaluation and intervention.
+3.5.10. Instrumental Activities of Daily Living (IDALs)
+IADLs are defined as activities that are oriented toward interaction with the environment and
+that are the sequence and steps are to complete these tasks are more complex than basic
+activities of daily living The activity demands of IADLs may require more effort, energy, cognitive,
+and perceptual demands than basic ADLs.
+Page | 56
+Examples of IADLS include:
+(cid:1) Home management
+(cid:1) Meal preparation
+(cid:1) Shopping
+(cid:1) Financial management
+(cid:1) Community mobility
+(cid:1) Communication devise use
+(cid:1) Care of others (ie. role of mother/father and care of infant/child)
+(cid:1) Care of pets
+(cid:1) Health management
+(cid:1) Safety and emergency responses
+Occupational therapists should evaluate the ability of older children and young adults with CP to
+complete IADLs. Therapists will also evaluate functional cognition during the child’s completion
+of IADLs. Functional cognition refers to the thinking and processing skills that are used to
+accomplish everyday activities in clinical, home, and community environments.
+The role of the occupational therapist is to facilitate functional independence in all IADLs and
+support participation in life roles that are meaningful to the child with CP and the family. In
+addition, the therapist should determine the role that context and environment play in
+performance of IADLs. Some older children may be more receptive to the assistance of others
+(e.g. family members) to assist with daily activities, therefore, may not be as receptive to
+learning new techniques to advance independence.
+3.5.11. Home Programs
+Occupational therapists routinely use home programs for children with CP of all MACS levels as
+an adjunct to concurrent ongoing outpatient therapy, as well as, when outpatient therapy is not
+available, feasible or affordable (Shierk, Lake, & Haas, 2016).
+Home programs are individualized multimodal interventions that target body structure,
+activities, and participation problems identified collaboratively by the child, parents and the
+occupational therapist.
+(cid:1) Home programs can be clinically effective to improve upper limb function and goal
+attainment if implemented approximate 20 times per month for an average of
+approximately 20 minutes per session. This equates to roughly an hour a week of home
+program intervention (Novak, Cusick, & Lannin, 2009; Novak, 2010).
+(cid:1) When multiple healthcare providers are providing home programs, it is important to
+coordinate activities to reduce workload for family and improve overall efficiency of care.
+(cid:1) Before developing home programs, it is important to understand the child’s and parent’s
+goals to target the most important activities for the program.
+(cid:1) It is important to continuously monitor and update home programs to assure that the
+current needs of the child and family are met.
+Page | 57
+3.5.12. Context-Focused Therapy
+Context includes the cultural, personal, temporal, virtual, physical, and social influences which
+impact an individual’s participation in daily activities. Context-focused therapy shares concepts
+described in other ‘functional’, ‘task-oriented’, or ‘activity-focused’ interventions, such as
+involvement of parents, identification of functional goals, and a ‘top-down’ activity-based
+approach to assessment and intervention.
+A unique aspect of the context-focused therapy is that therapists are trained to change the
+characteristics of the task and/or environment rather than focus on remediation of the child’s
+abilities (Darrah et al., 2011).
+(cid:1) The assumption of this approach is that changes to the task and/or environment will
+enable the child to perform an activity that they were unable to do previously.
+(cid:1) Tenets of family-centred theory are also integrated into the development of the context-
+focused therapy protocol, particularly the concept of a collaborative partnership between
+families and health care providers (Darrah et al., 2011).
+(cid:1) The parents participate in the identification therapy goals and of intervention strategies
+for the child.
+(cid:1) Context-focused therapy starts with goal identification and specific assessment of how
+the child’s performance of the goal-related task. Therapists used a strength-based
+approach, first identifying factors within the task and environment that supported a child’s
+attempt to complete the identified goal before identifying task and environmental
+constraints.
+(cid:1) After identifying the important task and environment factors amenable to change, the
+therapist and parent agreed on the intervention strategies.
+(cid:1) In the context-focused therapy approach, therapists are trained to consider all movement
+solutions, even those traditionally thought to represent ‘abnormal’ movement patterns
+(e.g. W-sitting, ‘bunny-hopping’ to crawl), and to build on the movement solution that the
+child was trying to use.
+(cid:1) Therapists ask parents to show how they were currently managing the task and to
+consider this as a ‘starting point’ for adaptations. Therapists are cautioned against
+assuming a hierarchy of ‘best solutions’, such as if a child should move by crawling rather
+than commando creeping or that a mature pencil grasp was preferred over an immature
+grasp.
+3.5.13. Social Participation
+The World Health Organization defines social participation for the lifespan as “the nature and
+extent of an individual’s involvement in life situations” (WHO, 2001). Methods of social
+participation interventions can be occupation-based and/or use purposeful activities that may be
+preparatory, education, and or consultative in nature.
+Page | 58
+(cid:1) Occupational therapists and physiotherapists must first identify the individual’s goals to
+maximise social participation in all context and environments
+(cid:1) Assessment involves gathering data on the child’s skills and patterns of performance that
+are required for social participation
+(cid:1) Occupational therapists must also assess the individual’s habits, routines, rituals, and
+roles used in the process of engaging in social environments
+(cid:1) Social activities are analysed to understand the specific demands of the activity and the
+match to the individual’s factors and performance abilities
+(cid:1) Social participation should be considered within the family, with peers/friends, and, later
+in life, during dating or a relationship with a significant other
+(cid:1) Interventions for social participation can take place in home, school, or community
+settings. Interventions may include:
+o Remediation of performance skills to increase social participation
+o Compensation/adaptation of an activity to increase social participation (e.g. the use
+of adaptive sporting equipment to allow child to participate in youth recreation
+leagues)
+o Environmental adaptation to increase social participation (e.g. providing ramp
+access to a school or community building for child who uses a wheelchair for
+mobility)
+o Maintenance of successful performance through parent and child education
+o A combination of intervention approaches
+3.5.14. Hydrotherapy/Aquatic Therapy
+Hydrotherapy refers to a wide range of activities, of which most pertain to therapeutic and
+exercise activities carried out in heated pools (aquatic physiotherapy services, water exercise
+services, aquatic fitness activities and swimming activities).
+Aquatic therapy refers to treatments and exercises performed in water for relaxation, fitness,
+physical rehabilitation, and other therapeutic benefit.
+Benefits of aquatic therapy/hydrotherapy include:
+(cid:1) Allows independence of movement not possible on land
+(cid:1) Decreases weight bearing, enabling easier walking and general mobility
+(cid:1) Reduces muscle spasm allowing relaxation
+(cid:1) Decreases swelling, improves circulation and reduces pain
+(cid:1) Improves water confidence, water skill and basic swimming skills
+(cid:1) Encourages fitness
+Hydrotherapy involves working, in a heated pool, with an exercise physiologist or physiotherapist
+on exercises tailored to individual’s unique needs. Along with improving strength and mobility,
+hydrotherapy is also frequently used as part of rehabilitation programs following surgery. While a
+person with CP is recovering from their surgery, hydrotherapy can help to gradually increase
+movement and their ability to put weight through their feet.
+Page | 59
+Specialist hydrotherapy pools are heated to 32-34 degrees Celsius, as warm water can help
+increase a person’s circulation, reduce their muscle spasms and relieve pain.
+The unique properties of water mean that hydrotherapy has the potential to benefit people with
+CP right across the severity spectrum. Exercising in water may provide greater physical activity
+opportunities for people with more significant movement limitations when compared with land-
+based activities.
+For some people, the special flotation devices used in hydrotherapy may be essential for safety
+and independence in the pool. For others, exercise equipment is used instead to provide
+additional support or resistance in their program.
+Precautions and contraindications for hydrotherapy:
+Precautions Contraindications
+Epilepsy - 1:1 client/carer ratio & management Open/infected wounds/skin conditions – cover
+plan wounds with waterproof dressing
+PEG tubes and other external medical devices All bacterial infections and infectious diseases
+Tracheotomy: use floatation devices to
+Increase temperature
+maintain safe airway
+Faecal Incontinence (some clients can be toilet
+High blood pressure timed prior to pool entry which is a
+management strategy to decrease risk)
+Recent diarrhoea - the person should not
+Haemophilia swim until at least a week after symptoms
+have ceased
+Hepatitis B, C and HIV/AIDS - monitor for High risk obstetric patients (if any bleeding, or
+wounds / airborne infections complicated pregnancy)
+Active TB, flu and other airborne viral
+Severe Peripheral Vascular Disease
+infections
+Ear infections, grommets – use ear plugs/
+Unstable medical conditions, e.g. recent CVA,
+headbands. If repeated infections consider
+cardiac or kidney failure
+excluding from pool
+Cytomegalovirus (CMV) - usual infection
+control procedures apply e.g. hand washing, Tinea, ringworms
+cleaning change tables etc.
+Page | 60
+Altered sensation - wear protective clothing/
+shoes to protect against hitting/rubbing the Perforated eardrum
+pool surface
+Menstruating Hep B, C and HIV/AIDS
+Unprotected menstruation
+Alcohol/drug consumption
+Recent deep x-ray treatment
+Chemotherapy - medical clearance required.
+Possibly wait 24-48 hours after dose.
+3.5.15. Emerging Therapies – Robotics and Virtual Reality
+The field of paediatric neurorehabilitation has rapidly evolved with the introduction of robotics,
+computer-assisted systems, and virtual reality which may complement conventional
+physiotherapeutics or occupational therapies. These systems appear promising, especially the
+exciting and challenging virtual reality scenarios which can increase motivation to train intensely
+in a playful therapeutic environment. Despite promising experiences and a large acceptance by
+the patients and parents, so far, few robotic, computer-assisted systems, and virtual reality
+programs have been rigorously evaluated in children with CP and well-designed randomised
+controlled studies in this field are lacking. It is unclear which systems are effective for specific
+types of CP and the best application for this technology (e.g. duration, frequency, and intensity)
+to generate the best results (Meyer-Heim & van Hedel, 2013; Peri et al., 2016).
+Prescribing Adaptive and Assistive Technology (AAT)
+3.5.16. Adaptive and Assistive Equipment
+Adaptive and assistive technology is a widely used intervention for people with cerebral palsy
+and other disabilities (Novak et al, 2012). Assistive technology is any “item, piece of equipment,
+or product system, whether acquired commercially off the shelf, modified, or customized, that is
+used to increase, maintain, or improve functional capabilities of individuals with disabilities” (US
+Govt, 1988). Assistive technology is routinely prescribed to support individuals to achieve their
+movement, communication and participation goals as well as to reduce caregiver burden.
+Adaptive and assistive technology should be a component of an overall management plan and
+not an isolated intervention.
+Examples of AAT include (but are not limited to):
+(cid:1) Wheelchairs and strollers (cid:1) Beds and mattresses
+(cid:1) Walking aids (cid:1) Pressure care
+(cid:1) Standing frames (cid:1) Adaptive mealtime equipment (cutlery,
+Page | 61
+(cid:1) Splints and orthoses (upper limb and bowels, plates, cups etc)
+lower limb) (cid:1) Transfer aids including hoists
+(cid:1) Bath/shower aids (cid:1) Ramps
+(cid:1) Positioning equipment including seating (cid:1) Low tech communication aids
+systems, chairs, side lyers and bed (cid:1) High tech communication aids
+positioning (cid:1) Accessible toys
+(cid:1) Toileting aids
+Sources for adaptive and assistive technology include:
+(cid:1) Hospital workshops
+(cid:1) Private health-related workshops
+(cid:1) Local commercial workshops (wood work and iron work)
+(cid:1) Adaptive and assistive technology supply companies
+(cid:1) NGOs
+(cid:1) Adaptations made by families
+Best practice prescription of adaptive and assistive technology involves:
+(cid:1) A comprehensive assessment that considers all levels of the ICF
+(cid:1) Trial of identified options (wherever possible)
+(cid:1) Intervention strategies to support implementation of device(s) including skill development
+and parent/carer education
+(cid:1) Follow up and review of adaptive and assistive technology to evaluate impact of the
+device(s) on goal achievement and to identify challenges with use of the device(s)
+(I) Assessment
+Having a clear understanding of each individual’s unique needs is essential when exploring,
+trialling and prescribing AAT. It is therefore necessary to ensure a thorough assessment has
+been completed to provide information about:
+(cid:1) The individual’s movement disorder (Body Structure and Function assessments)
+Including: assessment of spasticity and dyskinesia (see 7.1).
+(cid:1) The individual’s musculoskeletal status (Body Structure and Function assessments)
+Including: assessment of range of motion, posture, leg length and pain (see 7.1).
+(cid:1) The individual’s functional abilities and how the individual performs certain tasks and
+activities(Activity and Participation assessments)
+Including: assessment of walking function, hand function, activities of daily living and transfers
+(see 7.2).
+(cid:1) The environment in which the individual performs the tasks and activities (Environmental
+assessments)
+Including: assessment of the physical environment and individual/family/carer perceptions of AAT
+(see 7.3).
+Page | 62
+(II) Trial and prescription of AAT
+Wherever possible, trial of the recommended device should be carried out before confirming the
+prescription. This is to ensure that the recommended device meets the individual child’s needs
+and is suitable for their home/community environment.
+Trial of certain types of AAT may not be possible, such as custom made orthoses.
+(III) Follow-up of AAT prescription
+Whenever AAT has been prescribed, every effort should be made to ensure that adequate
+follow-up is provided. Follow-up provides the opportunity to evaluate if the device continues to
+meet the child’s/family’s needs and understand any difficulties that might be experienced by the
+child/family with regards to using the device. Follow-up can be provided during face to face
+appointments, via phone or via email.
+Access to suitable AAT may be limited for many individuals with cerebral palsy. This may be due
+to limited suppliers, limited options or limited funding. Abandonment rates of AAT increase
+when AAT is recommended without trial, when clients and families are not involved in goal
+setting and AAT identification, when AAT implementation is not supported in the
+home/community setting and when there is limited follow up.
+Recommendation -
+> Local rehabilitation departments should identify strategies for increasing access to AAT and
+post-prescription follow up of AAT. The use of telerehabilitation may offer one strategy for
+increasing follow up.
+3.6. Rehabilitation Needs Across Lifespan
+CP is a permanent but not unchanging condition. Musculoskeletal status, functional abilities and
+cognitive function can and do change over time. Skills attained during childhood can deteriorate
+secondary to musculoskeletal changes, the impact of puberty and early onset ageing. Individuals
+with CP require monitoring and may benefit from repeat rehabilitation sessions over time
+particularly at key growth points. Monitoring is particularly important at natural transition points
+such as the onset of puberty, late adolescence and throughout adulthood.
+Page | 63
+Gait and Functional Decline
+3.6.1. Adolescence
+Projections of motor function for children
+and adolescents with CP have been well
+documented. Gross motor curves for CP
+show the average rate of gross motor
+skill acquisition for children across the
+GMFCS levels. It shows a projected
+stability for GMFCS I-II and the average
+decline for GMFCS III-V, with decline
+occurring as early as 7 or 8 years of age.
+This trend is often referred to as the
+‘natural history of CP’ (Hanna et al,
+2009).
+A small number of studies have looked
+Figure 6. Gross motor curves for CP
+at the stability of the GMFCS in adults
+over the age of 21 (Jahnsen, 2006;
+McCormick, 2007). These report functional decline even amongst GMFCS I and II, with fatigue,
+balance problems, fear of falling and chronic musculoskeletal pain among the reasons for
+changes in GMFCS level.
+Prognosis of walking function
+(cid:1) A child’s walking ability at age 12 years is predictive of their walking ability as an adult
+(cid:1) Children who walk using aids or cannot walk lose walking function during adolescence
+(cid:1) Ability to walk further declines during later adulthood
+3.6.2. Adulthood
+25% or more of adults with CP experience deterioration in gait and walking function. Those most
+at risk are adults classified GMFCS III and adults with bilateral CP.
+Gait deterioration occurs at an earlier age for adults with CP compared with adults without a
+disability. Deterioration is strongly associated with inactivity with a lower risk of deterioration
+found amongst adults who engaged in regular physical activity. Age, increased pain, increased
+fatigue, decreased balance and lack of opportunity to participate in adapted physical activity were
+also associated with gait decline (Morgan & McGinley, 2013).
+In addition to gait decline, declines in the performance of activities of daily living, eating and
+drinking, and cognitive functioning are common in people with CP.
+Page | 64
+3.6.3. Transition
+Transitioning between paediatric and adult rehabilitation services is an important aspect of the
+care of individuals with CP.
+The following overarching principles should guide transition planning (NICE, 2017)
+(cid:1) Recognise that challenges for young people with CP continue into adulthood, and ensure
+that their individual developmental, social and health needs, particularly those relating to
+learning and communication, are addressed when planning and delivering transition.
+(cid:1) Recognise that for young people with CP there may be more than one transition period in
+health and social care settings; for example, college, resident educational and adult home
+settings.
+Recommendations – for transition planning
+> Develop clear pathways for transition that involve: the young person's medical practitioners
+and clinicians in adults' services, both locally and regionally, who have an interest in the
+management of CP.
+> Ensure that professionals involved in providing future care for young people with CP have
+sufficient training in order to address all their health and social care needs.
+> As a minimum standard of care, ensure that the young person has access to adults' services
+both locally and regionally that include healthcare professionals with an understanding of
+managing CP.
+> Ensure that all relevant information is communicated at each point of transition.
+> Recognise that functional challenges (including those involving eating, drinking and swallowing,
+communication and mobility) and physical problems (including pain and discomfort) may change
+over time for people with CP, and take this into account in transition planning.
+> Provide a named worker to facilitate timely and effective transition, and recognise the
+importance of continuity of care
+3.7. Parent, Family and Caregiver Support
+CP impacts the entire family in a manner that is long-term, complex and multifactorial. In studies
+on parent experiences and expectations, many families expressed the desire for their child with
+CP to be able to live independently in the future. Parents often report a need for information on
+what would be realistic to expect for their child’s future. Parents often experienced
+disappointments about their child’s progress (Darrah, Wiart, Magill-Evans, Ray, & Andersen,
+2014; Kruijsen-Terpstra, et al., 2016).
+(cid:1) Families whose child is diagnosed with CP experience complex care responsibilities,
+financial hardship, limits to occupational attainments, relationship distress, grief and social
+Page | 65
+isolation. They may experience significant stress and anxiety about the future and a lack
+of understanding from the broader community.
+(cid:1) Parents of children with CP need to be proactive, skilled and conscious of their parenting
+choices to provide their children with optimal developmental support.
+(cid:1) Parenting a child with CP, and optimising their development, involves forward thinking, a
+commitment to long-term support, patience, compassion, behavioural management skills
+and effort above and beyond the parenting of typically developing children. Further, all of
+this requires a strong and loving emotional bond and parental psychological resilience.
+Recommendations for ways to empower and support families:
+(See also Parent Empowerment in the General Guideline)
+No one empowerment approach can be applied to all families of children with CP and providers
+must assess each families’ individual needs to determine the most beneficial approach:
+1) Encourage parental involvement in community support groups to connect families who
+have children with CP.
+2) Develop family training programs to educate and support parents on specific health
+needs (e.g. parent training on feeding and nutrition issues).
+3) Refer parents to international parent support organisations which can connect families
+through the internet, social media, and e-mail Listservs (e.g. Children’s Hemiplegia and
+Stroke Association (CHASA), Hemi-Kids)
+4) Collaborate with families to develop home programs and goals for therapy.
+Recommendations –
+> Practitioners should be educated on the process of parent empowerment and learn ways to
+enhance family support and community involvement.
+Page | 66
+Glossary
+Aspiration – when food or liquids passes into the laryngeal space during pharyngeal phase
+swallowing, past the level of the vocal cords, depositing food or liquids into the lungs.
+Ataxia – A motor type of CP which affects the sense of balance and depth perception. Children
+with ataxia may have poor coordination; walk unsteadily with a wide-based gait, and experience
+difficulty when attempting quick or precise movements, such as writing or buttoning a shirt.
+Athetosis – A motor type of CP characterised by uncontrolled, slow, writhing movements.
+Augmentative and alternative communication (AAC) - AAC includes all forms of communication
+(other than oral speech) that are used to express thoughts, needs, wants, and ideas. Special
+augmentative aids, such as picture and symbol communication boards and electronic devices, are
+available to help children and adults with CP express themselves. This may increase social
+interaction, school performance, and feelings of self-worth.
+Behaviour disorder – a pattern of disruptive behaviours which may involve inattention,
+hyperactivity,
+Impulsivity, and defiant behaviours.
+Canadian Occupational Performance Measure (COPM) - an individualised measure that assesses
+an person’s perceived occupational performance in the areas of self-care, productivity, and
+leisure.
+Cerebral palsy (CP) - a term used to describe a group of chronic conditions affecting body
+movement and muscle coordination. It is caused by damage to one or more specific areas of the
+brain, usually occurring during foetal development; before, during, or shortly after birth; or during
+infancy.
+Chorea – A motor type of CP which presents as ongoing random-appearing sequence of one or
+more discrete involuntary movements or movement fragments.
+Communication and function classification system (CFCS) - A classification system used to
+categorise the everyday communication performance of an individual into one of five levels. The
+CFCS focuses on activity and participation levels as described in the World Health Organization’s
+(WHO) International Classification of Functioning, Disability, and Health (ICF).
+Contracture - a condition of shortening and hardening of muscles, tendons, or other tissue, often
+leading to deformity and rigidity of joints.
+Cortical Visual Impairment (CVI) - defined as a bilateral loss of central visual function
+Page | 67
+(visual acuity) caused by neurological damage to the visual cortex and⁄or visual pathway
+structures. It most commonly results from hypoxic ischaemia causing periventricular
+leukomalacia
+in the preterm infant.
+Dyskinesia - refers to an increase in muscular activity that can result in excessive abnormal
+movements, excessive normal movements, or a combination of both.
+Dysphagia – difficulty with swallowing which may impact a child’s ability to eat.
+Dystonia - a movement disorder in which involuntary sustained or intermittent muscle
+contractions cause slow twisting and repetitive movements, abnormal postures, or both that are
+triggered by attempts to move.
+Eating and Drinking Ability Classification Scale (EDACS) – A classification system which
+categorises how individuals with children with CP eat and drink in everyday life using distinctions
+that are meaningful. EDACS provides a systematic way of describing an individual’s eating
+and drinking in five different levels of ability.
+Equinus - tightness in the calf and Achilles tendon which limits dorsiflexion (toes to shin) of the
+ankle.
+Foot drop - is a gait abnormality in which the dropping of the forefoot happens due to muscular
+weakness.
+Fundoplication - a Nissen fundoplication, or laparoscopic Nissen fundoplication is a surgical
+procedure to treat gastro-oesophageal reflux disease (GERD) and hiatal hernia. During
+fundoplication surgery, the upper curve of the stomach (the fundus) is wrapped around the
+oesophagus and sewn into place so that the lower portion of the oesophagus passes through a
+small tunnel of stomach muscle.
+Gastrostomy - an opening into the stomach from the abdominal wall, made surgically for
+nutritional support or gastric decompression.
+Gross Motor Functional Classification Scale (GMFCS) – A classification system based on self-
+initiated movement, with emphasis on sitting, transfers, and mobility. A five-level classification
+system with distinctions based on functional limitations, the need for hand-held mobility devices
+(such as walkers, crutches, or canes) or wheeled mobility, and to a much lesser extent, quality of
+movement.
+Gross Motor Function Measure (GMFM) – a clinical tool designed to evaluate change in gross
+motor function in children with CP. There are two versions of the GMFM - the original 88-item
+measure (GMFM-88) and the more recent 66-item GMFM (GMFM-66). Items on the GMFM-88
+Page | 68
+span the spectrum from activities in lying and rolling up to walking, running and jumping skills.
+The GMFM-66 is comprised of a subset of the 88 items identified (through Rasch analysis) as
+contributing to the measure of gross motor function in children with CP.
+Hypoxic Ischaemic Encephalopathy (HIE) – brain injury caused by oxygen deprivation to the
+brain, also commonly known as intrapartum asphyxia.
+Hammersmith Infant Neurological Exam (HINE) - a neurological assessment for infants between
+2 and 24 months of age that includes items for cranial nerve function, posture, movements, tone
+and reflexes. It can be reliably used to assess infants at neurological risk, both preterm and term
+born. The HINE identifies early signs of CP in infants with neonatal brain lesions.
+Hip dislocation – a hip dislocation occurs when the head of the femur comes out of the
+acetabulum in the pelvis
+Hip displacement – a hip displacement occurs when head of the femurs migrates, or moves, out
+of acetabulum in the pelvis
+Hyperhydrosis - a condition characterised by abnormally increased sweating, in excess of that
+required for regulation of body temperature.
+International Classification of Function, Disability, and Health (ICF) - a classification of health
+and health-related domains. As the functioning and disability of an individual occurs in a context,
+ICF also includes a list of environmental factors. The ICF is the World Health Organization’s
+framework for measuring health and disability at both individual and population levels.
+Interprofessional team approach - providers work independently, but recognise and value
+contributions of other team members. This approach requires interaction among the team
+members for the evaluation, assessment, and development of the intervention plan.
+Likert scale – a widely used scale for patient responses which provides choice of five to seven
+pre-coded responses with the neutral point being neither agree nor disagree. It is used to allow
+the individual to express how much they agree or disagree with a particular statement.
+Manual Abilities Classification Scale (MACS) - A classification system which describes how
+children with CP use their hands to handle objects in daily activities. MACS describes five
+Levels or categories which are based on the children’s self-initiated ability to handle objects with
+both hand and their need for assistance or adaptation p to perform manual activities in everyday
+life.
+Migration percentage – a commonly used measure for subluxation (dysplasia) of the hip.
+Page | 69
+Multidisciplinary team - a group of health care workers who are members of different disciplines
+(e.g. physicians, nurses, therapists, social workers, etc.), each providing specific services to the
+patient.
+Osteoporosis - a medical condition in which the bones become brittle and fragile from loss of
+tissue, typically due to hormonal changes, or deficiency of calcium or vitamin D.
+Penetration - when food or liquids passes into the laryngeal space during pharyngeal phase
+swallowing but does not move past the level of the vocal cords. The food or liquid is typically
+expelled from the laryngeal space through a forceful cough.
+Quality of Upper Extremity Skills Test (QUEST) - an outcome measure that evaluates movement
+patterns and hand function in children with CP. The four domains evaluated by the QUEST
+include: dissociated movement, grasp, protective extension, and weight bearing.
+Recurvatum - Genu recurvatum is a deformity in the knee joint, so that the knee has excessive
+backwards motion. In this deformity, excessive extension occurs in the tibiofemoral joint.
+Scoliosis - abnormal lateral curvature of the spine.
+Spasticity - velocity-dependent resistance to stretch by the muscles. It is characterised by an
+excessive stiffness in the muscles when the child attempts to move or maintain a posture
+against gravity.
+Telerehabilitation – a means of delivering of rehabilitation services over telecommunication
+networks and the internet.
+Page | 70
+References
+American Occupational Therapy Association. (2014). Occupational therapy practice framework:
+Domain and process (3rd ed.). American Journal of Occupational Therapy, 68, S1–S48.
+https://doi.org/10.5014/ajot.2014.682006
+Auld, M.L., Boyd, R.N., Moseley, G.L., et al. (2011). Tactile assessment in children with cerebral
+palsy: a clinimetric review. Physical and Occupational Therapy in Pediatrics, 31:413–439.
+Auld, M.L., Boyd, R.N., Moseley, G.L., et al. (2012). Impact of tactile dysfunction on upper-limb
+motor performance in children with unilateral cerebral palsy. Archives of Physical Medicine and
+Rehabiitation, 93: 696–702.
+Australian Cerebral Palsy Register Group (ACPR) (2016). Australian Cerebral Palsy Register
+Report 2016. Available: https://www.cpregister.com/pubs/pdf/ACPR-Report_Web_2016.pdf
+Barry, M.J., Van Swearingen, J.M. and Albright, A.L. (1999). Reliability and responsiveness of the
+Barry-Albright dystonia scale. Developmental Medicine & Child Neurology, 41; 404-411.
+Case-Smith, J., Frolek Clark, G. J., & Schlabach, T. L. (2013). Systematic review of interventions
+used in occupational therapy to promote motor performance for children ages birth–5 years.
+American Journal of Occupational Therapy, 67; 413–424.http://dx.doi.org/10.5014/
+ajot.2013.005959.
+Darrah, J., Law, M., Pollock, N., Wilson, B., Russell, D., Walter, S., Rosenbaum, P., Galuppi, B.
+(2011). Context therapy: a new intervention approach for children with cerebral palsy.
+Developmental Medicine and Child Neurology, 53(7); 615-620.
+Denver, B., Froude, E., Rosenbaum, P., Wilkes-Gillan, S., & Imms, C. (2016). Measurement of
+visual ability in children with cerebral palsy: a systematic review. Developmental Medicine and
+Child Neurology, 58; 1016–1029.
+Effgen S. (2006). Serving the needs of children and their families. In: Effgen S, ed. Meeting the
+Physical Therapy Needs of Children. Philadelphia, PA: F. A. Davis Company.
+Eliasson, A.C, Krumlinde Sundholm, L., Rösblad, B., Beckung, E., Arner, M., Öhrvall, A.M., &
+Rosenbaum, P. (2006). The Manual Ability Classification System (MACS) for children with
+cerebral palsy: Scale development and evidence of validity and reliability. Developmental
+Medicine & Child Neurology, 48: 549-554.
+Ferziger, N., Nemet, P., Brezner, A., Feldman, R., Galili, G., & Zivotofsky, A.Z. (2011). Visual
+assessment in children with cerebral palsy: implementation of a functional questionnaire.
+Developmental Medicine and Child Neurolology, 53; 422–28.
+Graham, H.K., Harvey, A., Rodda, J., Nattras, G.R. & Pirpiris, M. (2004). The functional mobility
+scale (FMS). Journal of Paediatric Orthopaedics, 24(5): 514-520.
+Page | 71
+Gordon, A. (2011). To constrain or not to constrain, and other stories of intensive upper extremity
+training for children with unilateral cerebral palsy. Developmental Medicine and Child Neurology,
+53 (Suppl. 4); 56-61.
+Gordon, A. & Magill, R. (2012). Motor learning: Application of principles to pediatric rehabitlitation.
+In S.K. Campbell, R. J. Palisane, & M. N. Orlin (Eds). Physical Therapy for Children (4th Ed). New
+York: Elsevier.
+Harty, H., Griesel, M., & van der Merwe,A. (2011). The ICF as a common language for
+rehabilitation goal-setting: comparing client and professional priorities, Health and Quality of Life
+Outcomes, 9; 87.
+Hanna, S., Rosenbaum, P., Bartlett, D., Palisano, R., Walter, S., Avery, L. & Russell, D. (2009).
+Stability and decline in gross motor function among children and youth with cerebral palsy aged 2
+to 21 years. Developmental Medicine & Child Neurology, 51:295-302.
+Hidecker, M.J., Paneth, N., Rosenbaum, P.L., Kent, R.D., Lillie, J., Eulenberg, J.B., Chester, Jr.
+K., Johnson, B., Michalsen, L., Evatt, M.& Taylor, K. (2011). Developing and validating the
+Communication Function Classification System for individuals with cerebral. Developmental
+Medicine & Child Neurology, 53, 799-805.
+Hoare, B., Wallen, M.A., Imms, C., Villanueva, E., Rawicki, H.B, & Carey, L. (2010).. Botulinum
+toxin A as an adjunct to treatment in the management of the upper limb in children with spastic
+cerebral palsy (UPDATE). Cochrane Database Systemaic Review, (1):CD003469. doi:
+10.1002/14651858.CD003469.pub4.
+Hoare, B. & Greaves, S. (2017). Unimanual versus bimanual therapy in children with unilateral
+cerebral palsy: Same, same, but different. Journal of Pediatric Rehabilitation and Medicine,
+10(1):47-59. doi: 10.3233/PRM-170410.
+Jahnsen, R., Aamodt, G. & Rosenbaum, P. (2006). Gross Motor Function Classification System
+used in adults with cerebral palsy: agreement of self-reported versus professional rating.
+Developmental Medicine & Child Neurology, 48:734-738
+Jethwa, A., Mink, J., Macarthur, C., Knights, S., Fehlings, T. and Fehlings, D. (2010). Development
+of the Hypertonia Assessment Tool (HAT): a discriminative tool for hypertonia in children.
+Developmental Medicine & Child Neurology, 52(5); e83-e87.
+Kanellopoulos, A., Mavrogenis, A., Mitsiokapa, E., Panagopoulos, D., Skouteli, H., Vrettos, S.,
+Tzanos, G., Papagelopoulos, P. (2009). Long lasting benefits following the combination of static
+night upper extremity splinting with botulinum toxin A injections in cerebral palsy children.
+European Journal of Physical Rehabilitation and Medicine, 45(4):501-6.
+Khandaker G, Van Bang N, Dũng TQ, Giang NTH, Chau CM, Van Anh NT, Van Thuong N, Badawi
+N, Elliott EJ. Protocol for hospital based-surveillance of cerebral palsy (CP) in Hanoi using the
+Paediatric Active Enhanced Disease Surveillance mechanism (PAEDS-Vietnam): a study towards
+Page | 72
+developing hospital-based disease surveillance in Vietnam. BMJ Open. 2017 Nov
+9;7(11):e017742
+Kolobe, T., Chisty, J., Gannotti, M., Heathcokc, J., Damiano, D., Taub, E., Majsak, M., Gordon, A.,
+Fuchs, R., O'Neil, M., & Caiozzo, V. (2014). Research Summit III Proceedings on Dosing in
+Children With an Injured Brain or Cerebral Palsy: Executive Summary. Physical Therapy, 94(7);
+907-920.
+Kruijsen-Terpstra, A., Verschuren, O., Ketelaar, M., Riedijk, L., Gorter, J., Jongmans, M., & Boeije
+H. (2016). Parents' experiences and needs regarding physical and occupational therapy for their
+young children with cerebral palsy. Research on Developmental Disabilities, 53-54; 314-22. doi:
+10.1016/j.ridd.2016.02.012.
+Lane, M., Russell, D., Rosenbaum, P. & Avery, L. (2007). Gross Motor Function Measure: (GMFM-
+66 and GMFM-88) User’s Manual. MacKeith Press.
+McCormick, A., Brien, M., Plourde, J., Wood, W., Rosenbaum, P. & McLean, J. (2007). Stability of
+the Gross Motor Function Classification System in adults with cerebral palsy. Developmental
+Medicine & Child Neurology, 49:265-269.
+McCulloch D, Mackie R, Dutton G, et al. (2007). A visual skills inventory for children with
+neurological impairments. Developmental Medicine and Child Neurolology, 49; 757–63
+McIntyre, S., Morgan, C., Walker, K. & Novak, I. (2011). Cerebral palsy-don’t delay. Developmental
+Disabilities Research Reviews, Volume 17, Issue 2, pages 114–129.
+McIntyre, S., Taitz, D., Keogh, J., Goldsmith, S., Badawi, N, & Blair, E. (2012). A systematic
+review of risk factors for cerebral palsy in children born at term in developed countries.
+Developmental Medicine & Child Neurology, 55: 499-508.
+Meyer-Heim, A. & van Hedel H.J. (2013). Robot-assisted and computer-enhanced therapies for
+children with cerebral palsy: current state and clinical implementation. Seminars in Pediatric
+Neurology, 20(2); 139-45. doi: 10.1016/j.spen.2013.06.006.
+Novak, I., Hines, M., Goldsmith, S. and Barclay, R. (2012). Clinical Prognostic Messages from a
+Systematic Review on Cerebral Palsy. Pediatrics, 130(5): e1285-e1312.
+Novak, I., Cusick A., & Lannin, N. (2009). Occupational therapy home programs for cerebral
+palsy: double-blind, randomized, controlled trial. Pediatrics, 124(4):e606–e614.
+Novak, I. (2010). Parent experience of implementing effective home programs.Physical and
+Occupupational Therapy in Pediatrics, 31(2);198-213. doi: 10.3109/01942638.2010.533746.
+Ortibus, A., Verhoeven, J., De Cock, P., et al. (2011). Screening for cerebral visual impairment:
+value of a CVI questionnaire. Neuropediatrics, 42; 138–47.
+Page | 73
+Palisano, R., Rosenbaum, P. Walter, S., Russell, D., Wood, E. & galuppi, B. (1997). Development
+and reliability of a system to classify gross motor function in children with cerebral palsy.
+Developmental Medicine & Child Neurology, 39(4): 214-223.
+Palisano, R., Rosenbaum, P., Bartlett, D., Livingston, M. (2008). Content validity of the expanded
+and revised Gross Motor Function Classification System. Developmental Medicine & Child
+Neurology, 50 (10), 744-50.
+Penner, M., Xie, W., Binepal, N., Switzer, L, & Fehlings, D. (2013). Characteristics of pain in
+children and youth with cerebral palsy. Pediatrics, 132(2); e407-413.
+Peri, E., Biffi, E., Maghini, C., Servodio Iammarrone, F., Gagliardi, C., Germiniasi, C., Pedrocchi,
+A., Turconi, A.C., & Reni G. (2016). Quantitative Evaluation of Performance during Robot-assisted
+Treatment. Methods Inf Medicine, 55(1); 84-8. doi: 10.3414/ME14-01-0126.
+Pidcock, F. (2017). Pediatric Constraint Induced Movement Therapy: Harnessing Adaptive
+Neuroplasticity. Journal of Pediatric Rehabilitation and Medicine, 10(1); 1. doi: 10.3233/PRM-
+170413.
+Ramey, S., Coker-Bolt, P., & DeLuca, S. (2013). A Handbook of Pediatric Constraint-Induced
+Movement Therapy (P-CIMT): A Guide for Occupational and Physical Therapists, Researchers,
+and Clinicians. Bethesda, MD: American Occupational Therapy Association Press.
+Rodda, J.M. & Graham, H.K. (2001). Classification of gait patterns in spastic hemiplegia and
+diplegia: a basis for a management algorithm. European Journal of Neurology, 8(5): 98-108.
+Rodda, J.M., Graham, H.K., Carson, L., Galea, M.P. and Wolfe, R. (2004). Sagittal gait patterns in
+spastic diplegia. The Journal of Bone and Joint Surgery, 86-B(2): 251-258.
+Rosenbaum, P., Paneth, N., Leviton, A., Goldstein, M. and Bax, M. (2007). A report: the definition
+and classification of cerebral palsy April 2006. Developmental Medicine & Child Neurology,
+Supplement, 109:8-14.
+Rosenbaum, P. and Stewart, D. (2004). The World Health Organization International Classification
+of Functioning, Disability, and Health: A Model to Guide Clinical Thinking, Practice and Research in
+the Field of Cerebral Palsy. Seminars in Pediatric Neurology, 11(1); 5-10.
+Sakzewski, L., Provan, K., Ziviani, J., Boyd. R.N. (2015). Comparison of dosage of intensive upper
+limb therapy for children with unilateral cerebral palsy: how big should the therapy pill be?
+Research in Developmental Disabilities, 37; 9-16. doi: 10.1016/j.ridd.2014.10.050.
+Sanger, T.D., Delgado, M.R., Gaebler-Spira, D., Hallett, M. & Mink, J.W. (2003). Task force on
+childhood motor disorders. Classification and definition of disorders causing hypertonia in
+childhood. Pediatrics, 111: e89-97.
+Page | 74
+Sanger, T.D. et.al (2010). Definition and classification of hyperkinetic movements in childhood.
+Movement Disorders, Mov Disord, 25(11):1538-1549.
+Sellers, D., Mandy, A., Pennington, L., Hankins, M. & Morris, C. (2014). Development and
+reliability of a system to classify the eating and drinking ability of people with cerebral palsy.
+Developmental Medicine & Child Neurology, 56(3):245-51.
+Sellier, E., Platt, M.J., Andersen, G., Krageloh-Mann, I., De La Cruz, J. and Cans, C. (2015).
+Decreasing prevalence in cerebral palsy: a multi-site European population-based study, 1980 to
+2003. Developmental Medicine & Child Neurology, 58: 85–92.
+Shierk, A., Lake, A., & Haas, T. (2016). Review of Therapeutic Interventions for the Upper Limb
+Classified by Manual Ability in Children with Cerebral Palsy. Seminars in Plastic Surgery, 30(1):14-
+23. doi: 10.1055/s-0035-1571256.
+Singh, A., Yeh, C.J and Boone Blanchard, S. (2017). Ages and Stages Questionnaire: a global
+screening scale. Boletín Médico del Hospital Infantil de México, 74(1); 5-12.
+Ten Berge, S.R., Boonstra, A.M., Dijkstra, P.U., Hadders-Algra, M., Haga, N., & Maathuis, C.
+(2012). A systematic evaluation of the effect of thumb opponens splints on hand function in
+children with unilateral spastic cerebral palsy. Clinical Rehabilitation, 26(4); 362–371.
+Winters, T.F., Gage, J.R. & Hicks, R. (1987). Gait patterns in spastic hemiplegia in children and
+young adults. Journal of Bone & Joint Surgery (American) 69: 437-441.
+World Federation of Occupational Therapy (WFOT). Definition of Occupational Therapy. Retrieved
+from
+http://www.wfot.org/AboutUs/AboutOccupationalTherapy/DefinitionofOccupationalTherapy.aspx
+World Health Organization. (2001). International classification of functioning, disability and health.
+Geneva: Author.
+World Health Organization. (2006). Constitution of the World Health Organization (45th ed.).
+Retrieved from
+http://www.afro.who.int/index.php?option=com_docman&task=doc_download&gid=19&Itemid=
+2111WHO 2006
+Yang, C., Hao, Z., Zhang, L., & Guo, Q. (2015). Efficacy and safety of acupuncture in children: an
+overview of systematic reviews. Pediatric Research, 78 (2); 112-119.
+Zhang, Y., Liu, J., Wang, J., & He, Q. (2010). Traditional Chinese Medicine for treatment of
+cerebral palsy in children: a systematic review of randomized clinical trials. Journal of Alternative
+and Complementary Medicine, 16(4); 375-385. doi: 10.1089/acm.2009.0609.
+Page | 75
+Disclaimer
+Healthcare professionals are expected to take the present clinical guidelines fully into account
+when exercising their clinical judgment. However, the guidance does not override the
+responsibility of healthcare professionals to make decisions appropriate to the circumstances of
+each patient, in consultation with the patient and/or their guardian or carer.
+Copyright
+Humanity & Inclusion
+This publication may be used or reproduced for non-commercial uses only, on condition that the
+source is cited.
+Page | 76
